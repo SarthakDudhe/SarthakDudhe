@@ -26,7 +26,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sarthak%20dudhe](https://www.linkedin.com/in/sarthak-dudhe-67155a327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthakdudhe79@gmail.com)
 
 ---

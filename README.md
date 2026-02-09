@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: **AgroConnect** – a full-stack marketplace project for farmers and agri-buyers.
+
 - 🌱 Exploring **DevOps** tools & pipelines (Docker, CI/CD, etc.).
 - 🧑‍🎓 3rd year Computer Engineering student, passionate about real-world software architecture.
 - 🎨 Love building elegant, responsive **UIs** with **React** and architecting powerful **Node.js/Express** backends.

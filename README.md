@@ -1,29 +1,34 @@
-<h1 align="center">Hi, I'm Sarthak Dudhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,0EA5E9,14B8A6&height=220&section=header&text=Sarthak%20Dudhe&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="banner" />
+</div>
 
-<h3 align="center">MERN Stack Developer • DevOps Enthusiast • Computer Engineering Student</h3>
+<h2 align="center">MERN Stack Developer | DevOps Enthusiast | Builder of clean web experiences</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+modern+full-stack+web+apps;Crafting+responsive+React+interfaces;Designing+scalable+Node.js+%26+Express+backends;Exploring+Docker,+CI/CD,+and+DevOps;Always+learning.+Always+shipping." alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:sarthakdudhe79@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/SarthakDudhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/sarthakdudhe?style=for-the-badge&color=111827&labelColor=1f2937" alt="followers" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+clean+and+scalable+web+apps;Crafting+responsive+React+interfaces;Designing+robust+Node.js+%26+Express+backends;Exploring+Docker%2C+CI%2FCD%2C+and+DevOps;Always+learning.+Always+shipping." alt="Typing animation" />
 </p>
 
 ---
@@ -32,30 +37,30 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I’m a 3rd year Computer Engineering student who loves building products that feel polished, fast, and useful.
+I build full-stack products with a focus on clarity, speed, and strong user experience.
 
-- I build full-stack apps with the **MERN stack**
-- I’m actively exploring **DevOps**, **Docker**, and **CI/CD pipelines**
-- I enjoy turning ideas into clean, responsive **React** interfaces
-- I like designing scalable, maintainable **Node.js/Express** backends
-- I’m always iterating, learning, and trying to ship better software
+- I work across the **MERN stack** to build modern web applications
+- I enjoy turning ideas into polished, responsive **React** interfaces
+- I design practical, scalable **Node.js / Express** backends
+- I am exploring **Docker**, **CI/CD**, and production deployment workflows
+- I like shipping projects that feel clean, useful, and ready for real users
 
 <br clear="right"/>
 
 ---
 
-## What I'm Focused On
+## Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently-Building%20Better%20Projects-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Learning%20DevOps%20Workflows-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-Improving%20System%20Design-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Building%20better%20products-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Improving%20DevOps%20workflows-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Shipping%20production%20ready%20apps-0F172A?style=for-the-badge" />
 </p>
 
-- Building production-ready web applications
-- Learning deployment workflows and automation
-- Improving backend architecture and scalability
-- Creating UI that feels modern, smooth, and intentional
+- Building strong portfolio projects with real-world value
+- Improving deployment, automation, and backend structure
+- Refining UI details so apps feel more premium and complete
+- Learning by shipping and iterating fast
 
 ---
 
@@ -63,7 +68,7 @@ I’m a 3rd year Computer Engineering student who loves building products that f
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,vite" />
 </p>
 
 ### Backend
@@ -83,25 +88,23 @@ I’m a 3rd year Computer Engineering student who loves building products that f
 
 ---
 
-## A Few Things About Me
+## Featured Builds
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solver-Ready%20For%20Challenges-14b8a6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%20Builder-Responsive%20%26%20Elegant-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend%20Thinker-Scalable%20Systems-f97316?style=for-the-badge" />
+  <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20Application-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Chat Application" />
+  </a>
+  <a href="https://prep-genie-k3cd.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PrepGenie-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="PrepGenie" />
+  </a>
+  <a href="https://feasto-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Feasto-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Feasto" />
+  </a>
 </p>
 
-- I enjoy solving real-world problems through code
-- I care about both performance and presentation
-- I like learning by building and shipping
-- I’m open to collaboration, internships, and open-source work
-
----
-
-## Portfolio & Resume
-
-- Portfolio: [portfolio-sarthak-beta.vercel.app](https://portfolio-sarthak-beta.vercel.app/)
-- Resume: [View Resume](https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk)
+- **Chat Application** - Real-time chat experience with a live product feel
+- **PrepGenie** - A focused platform built around preparation and productivity
+- **Feasto Food Delivery Platform** - A clean food delivery experience with modern UI
 
 ---
 
@@ -131,11 +134,14 @@ I’m a 3rd year Computer Engineering student who loves building products that f
   <a href="mailto:sarthakdudhe79@gmail.com">
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile.</b><br/>
-  If you like my work, feel free to connect, collaborate, or explore my projects.
+  Thanks for visiting my profile.<br/>
+  If my work interests you, feel free to connect, collaborate, or explore my projects.
 </p>

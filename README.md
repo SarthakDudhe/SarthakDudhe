@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1A1A1A,D4AF37&height=180&section=header&text=SARTHAK%20DUDHE&fontSize=60&fontColor=D4AF37&animation=fadeIn&fontAlignY=36" width="100%" alt="Formal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1A1A1A,D4AF37&height=200&section=header&text=SARTHAK%20DUDHE&fontSize=65&fontColor=D4AF37&animation=fadeIn&fontAlignY=38" width="100%" alt="Formal Header" />
 </div>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfoilo-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #D4AF37;">📊 GitHub Dashboard</h2>
+<h2 align="center" style="color: #D4AF37;">📊 Engineering Dashboard</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthakdudhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37" alt="Stats" />
@@ -77,62 +77,83 @@
 <h2 align="center" style="color: #D4AF37;">🛠️ Technical Skills</h2>
 
 <div align="center">
-  <b>Frontend Engineering</b><br/>
-  <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=D4AF37" /><br/><br/>
-  <b>Backend & Databases</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37" /><br/><br/>
-  <b>Architecture & Tools</b><br/>
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=postman&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Socket.IO-000000?style=for-the-badge&logo=socket.io&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8" />
 </div>
 
 <br/>
 
-<h2 align="center" style="color: #D4AF37;">✨ Featured Projects</h2>
+<h2 align="center" style="color: #D4AF37;">✨ Featured Project Showcase</h2>
 
+<br/>
+
+<!-- QUICKCHAT PROJECT CARD -->
 <div align="center">
-  <table border="0">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=QUICKCHAT&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="QuickChat Header" />
+  <table width="85%">
     <tr>
-      <td width="50%" valign="top">
-        <h3>💬 QuickChat</h3>
-        <p><i>Real-Time Communication Engine</i></p>
-        <ul>
-          <li>Secure Instant Messaging with Socket.IO.</li>
-          <li>JWT-based Authentication.</li>
-          <li>Persistent storage with MongoDB.</li>
-        </ul>
-        <a href="https://chat-application-eight-wine.vercel.app/login"><b>[Live Demo]</b></a> | <a href="https://github.com/SarthakDudhe/ChatApplication"><b>[Repo]</b></a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>⚡ PrepGenie</h3>
-        <p><i>AI Interview Facilitator</i></p>
-        <ul>
-          <li>Personalized interview simulations.</li>
-          <li>Dynamic AI-driven prompts.</li>
-          <li>Mobile-responsive React UI.</li>
-        </ul>
-        <a href="https://prep-genie-k3cd.vercel.app/"><b>[Live Demo]</b></a> | <a href="https://github.com/SarthakDudhe/PrepGenie"><b>[Repo]</b></a>
+      <td align="center">
+        <p><b>Real-Time Communication Engine</b></p>
+        <p>Secure, instant neural-sync messaging platform featuring high-concurrency engagement and encrypted authentication.</p>
+        <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socket.io&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=D4AF37" />
+        <br/><br/>
+        <a href="https://chat-application-eight-wine.vercel.app/login">
+            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/ChatApplication">
+            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
-  <br/>
-  <table border="0">
+</div>
+
+<br/>
+
+<!-- PREPGENIE PROJECT CARD -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=PREPGENIE&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="PrepGenie Header" />
+  <table width="85%">
     <tr>
       <td align="center">
-        <h3>🍔 Feasto</h3>
-        <p><i>Full-Stack E-Commerce Platform</i></p>
-        <p>Comprehensive MERN ordering system with Stripe payments and Admin Dashboard.</p>
-        <a href="https://feasto-delta.vercel.app/"><b>[Live Demo]</b></a> | <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform"><b>[Repo]</b></a>
+        <p><b>AI-Powered Interview Preparation</b></p>
+        <p>Advanced simulation platform utilizing dynamic AI prompts to accelerate professional readiness.</p>
+        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=D4AF37" />
+        <br/><br/>
+        <a href="https://prep-genie-k3cd.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/PrepGenie">
+            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- FEASTO PROJECT CARD -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=FEASTO&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="Feasto Header" />
+  <table width="85%">
+    <tr>
+      <td align="center">
+        <p><b>Full-Stack Food Delivery Logistics</b></p>
+        <p>Comprehensive ordering ecosystem integrated with high-security payment gateways and real-time administrative control.</p>
+        <img src="https://img.shields.io/badge/Stripe_API-000000?style=flat-square&logo=stripe&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=D4AF37" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=D4AF37" />
+        <br/><br/>
+        <a href="https://feasto-delta.vercel.app/">
+            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
+            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
@@ -156,5 +177,5 @@
 
 <div align="center">
   <p>Thank you for visiting. 🚀</p>
-  <p><i>Engineering Excellence with Gold-standard precision.</i></p>
+
 </div>

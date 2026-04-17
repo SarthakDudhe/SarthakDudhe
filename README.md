@@ -1,25 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A,0EA5E9,14B8A6&height=220&section=header&text=Sarthak%20Dudhe&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=050816,0F172A,0EA5E9&height=210&section=header&text=Sarthak%20Dudhe&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34" alt="banner" />
 </div>
 
-<h2 align="center">MERN Stack Developer | DevOps Enthusiast | Builder of clean web experiences</h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+modern+full-stack+web+apps;Crafting+responsive+React+interfaces;Designing+scalable+Node.js+%26+Express+backends;Exploring+Docker,+CI/CD,+and+DevOps;Always+learning.+Always+shipping." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=900&color=7DD3FC&center=true&vCenter=true&width=920&lines=MERN+Stack+Developer;DevOps+Explorer;I+build+sharp%2C+production-ready+web+experiences" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0EA5E9?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
-  <a href="mailto:sarthakdudhe79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sarthakdudhe79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/SarthakDudhe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -28,36 +23,35 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sarthakdudhe?style=for-the-badge&color=111827&labelColor=1f2937" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="420" />
 </p>
 
 ---
 
 ## About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I build modern web apps with a cinematic, product-first mindset: strong visuals, reliable backend structure, and smooth interaction.
 
-I build full-stack products with a focus on clarity, speed, and strong user experience.
-
-- I work across the **MERN stack** to build modern web applications
-- I enjoy turning ideas into polished, responsive **React** interfaces
-- I design practical, scalable **Node.js / Express** backends
-- I am exploring **Docker**, **CI/CD**, and production deployment workflows
-- I like shipping projects that feel clean, useful, and ready for real users
-
-<br clear="right"/>
+- Working across the **MERN stack** to ship real-world products
+- Designing responsive interfaces with **React** and **Tailwind CSS**
+- Building scalable APIs and backend flows with **Node.js** and **Express**
+- Exploring **Docker**, **CI/CD**, and deployment workflows
+- Focused on clean delivery, fast performance, and polished user experience
 
 ---
 
 ## Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Building%20better%20products-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Improving%20DevOps%20workflows-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Shipping%20production%20ready%20apps-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Building%20better%20products-050816?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Improving%20DevOps%20workflows-050816?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Shipping%20production%20ready%20apps-050816?style=for-the-badge" />
 </p>
 
-- Building strong portfolio projects with real-world value
+- Building stronger portfolio projects with real-world value
 - Improving deployment, automation, and backend structure
 - Refining UI details so apps feel more premium and complete
 - Learning by shipping and iterating fast
@@ -66,45 +60,17 @@ I build full-stack products with a focus on clarity, speed, and strong user expe
 
 ## Tech Stack
 
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,vite" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
-</p>
-
-### Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,vite,nodejs,express,mongodb,mysql,firebase,docker,github,postman,figma" />
 </p>
 
 ---
 
-## Featured Builds
+## Featured Projects
 
-<p align="center">
-  <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20Application-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Chat Application" />
-  </a>
-  <a href="https://prep-genie-k3cd.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PrepGenie-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="PrepGenie" />
-  </a>
-  <a href="https://feasto-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Feasto-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Feasto" />
-  </a>
-</p>
-
-- **Chat Application** - Real-time chat experience with a live product feel
-- **PrepGenie** - A focused platform built around preparation and productivity
-- **Feasto Food Delivery Platform** - A clean food delivery experience with modern UI
+- **Chat Application** - Real-time chat built for smooth interaction and live communication. [Live Demo](https://chat-application-eight-wine.vercel.app/login) | [Source](https://github.com/SarthakDudhe/ChatApplication)
+- **PrepGenie** - A focused platform built around preparation, productivity, and a clean user flow. [Live Demo](https://prep-genie-k3cd.vercel.app/) | [Source](https://github.com/SarthakDudhe/PrepGenie)
+- **Feasto** - A food delivery platform designed with a modern, simple, and user-friendly feel. [Live Demo](https://feasto-delta.vercel.app/) | [Source](https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform)
 
 ---
 
@@ -135,7 +101,7 @@ I build full-stack products with a focus on clarity, speed, and strong user expe
     <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-050816?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 

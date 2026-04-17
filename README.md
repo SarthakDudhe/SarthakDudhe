@@ -1,14 +1,10 @@
-<h1 align="center">Hi, I'm Sarthak Dudhe 👋</h1>
+<h1 align="center">Hi, I'm Sarthak Dudhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-<h3 align="center">🚀 MERN Stack Developer | ⚙️ DevOps Explorer | 🎓 Computer Engineering Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+modern+full-stack+web+apps;Crafting+responsive+React+interfaces;Designing+scalable+Node.js+%26+Express+backends;Exploring+Docker%2C+CI%2FCD+and+DevOps+workflows;Always+learning.+Always+building." alt="Typing SVG" />
-</p>
+<h3 align="center">MERN Stack Developer • DevOps Enthusiast • Computer Engineering Student</h3>
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
@@ -23,65 +19,93 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sarthakdudhe?style=for-the-badge&color=0f172a&labelColor=1e293b" alt="followers" />
+  <img src="https://img.shields.io/github/followers/sarthakdudhe?style=for-the-badge&color=111827&labelColor=1f2937" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Building+clean+and+scalable+web+apps;Crafting+responsive+React+interfaces;Designing+robust+Node.js+%26+Express+backends;Exploring+Docker%2C+CI%2FCD%2C+and+DevOps;Always+learning.+Always+shipping." alt="Typing animation" />
 </p>
 
 ---
 
-## 💫 About Me
+## About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Building impactful **full-stack projects** with the **MERN stack**
-- 🌱 Exploring **Docker, CI/CD, deployment pipelines, and DevOps practices**
-- 🎨 Creating sleek, responsive, and user-focused **React** interfaces
-- 🛠️ Designing clean and scalable **Node.js / Express** backends
-- 🎓 3rd year **Computer Engineering** student passionate about real-world software
-- 📈 Focused on writing **production-ready**, maintainable, and optimized code
+I’m a 3rd year Computer Engineering student who loves building products that feel polished, fast, and useful.
+
+- I build full-stack apps with the **MERN stack**
+- I’m actively exploring **DevOps**, **Docker**, and **CI/CD pipelines**
+- I enjoy turning ideas into clean, responsive **React** interfaces
+- I like designing scalable, maintainable **Node.js/Express** backends
+- I’m always iterating, learning, and trying to ship better software
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I Bring
+## What I'm Focused On
 
-- Clean frontend experiences with strong UI thinking
-- Practical backend development with scalable structure
-- Curiosity for cloud, automation, and DevOps workflows
-- Fast learning, consistency, and builder mindset
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Building%20Better%20Projects-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20DevOps%20Workflows-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently-Improving%20System%20Design-0f172a?style=for-the-badge" />
+</p>
+
+- Building production-ready web applications
+- Learning deployment workflows and automation
+- Improving backend architecture and scalability
+- Creating UI that feels modern, smooth, and intentional
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,html,css" />
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Services
-<p>
+### Database
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### 🚀 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,postman,github,figma" />
+### DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## A Few Things About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solver-Ready%20For%20Challenges-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Builder-Responsive%20%26%20Elegant-8b5cf6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Thinker-Scalable%20Systems-f97316?style=for-the-badge" />
+</p>
+
+- I enjoy solving real-world problems through code
+- I care about both performance and presentation
+- I like learning by building and shipping
+- I’m open to collaboration, internships, and open-source work
+
+---
+
+## Portfolio & Resume
+
+- Portfolio: [portfolio-sarthak-beta.vercel.app](https://portfolio-sarthak-beta.vercel.app/)
+- Resume: [View Resume](https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk)
+
+---
+
+## GitHub Dashboard
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthakdudhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" alt="GitHub stats" />
@@ -98,14 +122,7 @@
 
 ---
 
-## 🌐 Portfolio & Resume
-
-- 🧩 Portfolio: [portfolio-sarthak-beta.vercel.app](https://portfolio-sarthak-beta.vercel.app/)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1g9Nr9DKQW_mDE8XjZJTEcBJB5gsniitN/view?usp=drivesdk)
-
----
-
-## 🤝 Let’s Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
@@ -118,15 +135,7 @@
 
 ---
 
-## 🧠 Fun Zone
-
-- 🧩 Problem solver by heart
-- 💬 Ask me about **React, Node.js, MongoDB, Docker, and MERN projects**
-- 🌍 Open to **collaboration, internships, open-source, and exciting ideas**
-
----
-
 <p align="center">
-  <b>Thanks for visiting my profile!</b> <br />
-  If my work interests you, feel free to connect, collaborate, or explore my projects ⭐
+  <b>Thanks for visiting my profile.</b><br/>
+  If you like my work, feel free to connect, collaborate, or explore my projects.
 </p>

@@ -74,7 +74,7 @@
 
 <br/>
 
-<h2 align="center" style="color: #D4AF37;">🛠️ Technical Skills</h2>
+<h2 align="center" style="color: #D4AF37;">🛠️ Technical Arsenal</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8" />
@@ -82,77 +82,74 @@
 
 <br/>
 
-<h2 align="center" style="color: #D4AF37;">✨ Featured Project Showcase</h2>
+<h2 align="center" style="color: #D4AF37;">✨ Featured Professional Gallery</h2>
 
 <br/>
 
-<!-- QUICKCHAT PROJECT CARD -->
+<!-- QUICKCHAT PROJECT GALLERY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=QUICKCHAT&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="QuickChat Header" />
-  <table width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000,D4AF37&height=120&section=header&text=QUICKCHAT&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=50" width="100%" alt="QuickChat Header" />
+  <br/>
+  <table width="90%">
     <tr>
       <td align="center">
-        <p><b>Real-Time Communication Engine</b></p>
+        <p><b>Real-Time Communication Architecture</b></p>
         <p>Secure, instant neural-sync messaging platform featuring high-concurrency engagement and encrypted authentication.</p>
-        <img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socket.io&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=D4AF37" />
-        <br/><br/>
+        <br/>
         <a href="https://chat-application-eight-wine.vercel.app/login">
-            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+            <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE_STATION-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000&color=D4AF37" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://github.com/SarthakDudhe/ChatApplication">
-            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/%E2%97%87%20SOURCE_CODE-D4AF37?style=for-the-badge&logoColor=000000&labelColor=D4AF37&color=000000" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br/><hr/><br/>
 
-<!-- PREPGENIE PROJECT CARD -->
+<!-- PREPGENIE PROJECT GALLERY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=PREPGENIE&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="PrepGenie Header" />
-  <table width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000,D4AF37&height=120&section=header&text=PREPGENIE&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=50" width="100%" alt="PrepGenie Header" />
+  <br/>
+  <table width="90%">
     <tr>
       <td align="center">
-        <p><b>AI-Powered Interview Preparation</b></p>
+        <p><b>AI-Powered Cognitive Interviewer</b></p>
         <p>Advanced simulation platform utilizing dynamic AI prompts to accelerate professional readiness.</p>
-        <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=D4AF37" />
-        <br/><br/>
+        <br/>
         <a href="https://prep-genie-k3cd.vercel.app/">
-            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+            <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE_STATION-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000&color=D4AF37" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://github.com/SarthakDudhe/PrepGenie">
-            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/%E2%97%87%20SOURCE_CODE-D4AF37?style=for-the-badge&logoColor=000000&labelColor=D4AF37&color=000000" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+<br/><hr/><br/>
 
-<!-- FEASTO PROJECT CARD -->
+<!-- FEASTO PROJECT GALLERY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=FEASTO&fontSize=35&fontColor=D4AF37&fontAlignY=50" width="85%" alt="Feasto Header" />
-  <table width="85%">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000,D4AF37&height=120&section=header&text=FEASTO&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=50" width="100%" alt="Feasto Header" />
+  <br/>
+  <table width="90%">
     <tr>
       <td align="center">
-        <p><b>Full-Stack Food Delivery Logistics</b></p>
-        <p>Comprehensive ordering ecosystem integrated with high-security payment gateways and real-time administrative control.</p>
-        <img src="https://img.shields.io/badge/Stripe_API-000000?style=flat-square&logo=stripe&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=D4AF37" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=D4AF37" />
-        <br/><br/>
+        <p><b>Full-Stack Logistics Ecosystem</b></p>
+        <p>Comprehensive ordering system integrated with high-security payment gateways and real-time administrative control.</p>
+        <br/>
         <a href="https://feasto-delta.vercel.app/">
-            <img src="https://img.shields.io/badge/LIVE_STATION-D4AF37?style=for-the-badge&logo=vercel&logoColor=black" />
+            <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE_STATION-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000&color=D4AF37" />
         </a>
+        &nbsp;&nbsp;
         <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
-            <img src="https://img.shields.io/badge/REPOSITORY-000000?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/%E2%97%87%20SOURCE_CODE-D4AF37?style=for-the-badge&logoColor=000000&labelColor=D4AF37&color=000000" />
         </a>
       </td>
     </tr>
@@ -177,5 +174,4 @@
 
 <div align="center">
   <p>Thank you for visiting. 🚀</p>
-
 </div>

@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/hero/banner.png" alt="Sarthak Dudhe banner" width="100%" />
+  
+
+https://github.com/user-attachments/assets/6496029b-b89d-4aa2-b666-67e5839793a1
+
+
 </div>
 
 <p align="center">

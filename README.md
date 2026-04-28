@@ -53,14 +53,14 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td width="58%" valign="top">
-      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="100%" />
+    <td width="58%" valign="top" align="center">
+      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="92%" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
         <tr>
-          <td width="33%"><img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="100%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="90%" /></td>
         </tr>
       </table>
     </td>
@@ -89,24 +89,21 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td width="42%" valign="top">
+    <td width="42%" valign="top" align="center">
       <strong>Food Ordering Platform</strong><br /><br />
       Food ordering, cart flow, tracking, and Stripe checkout.
       <br /><br />
       <strong>Stack</strong><br />
       React.js, Node.js, Express.js, MongoDB, Stripe API, JWT, CSS
     </td>
-    <td width="58%" valign="top">
-      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="100%" />
+    <td width="58%" valign="top" align="center">
+      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="92%" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
         <tr>
-          <td width="33%">   <img width="1898" height="867" alt="Screenshot 2025-12-20 145836" src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" />
- </td>
-          <td width="33%"> <img width="1901" height="873" alt="Screenshot 2025-12-20 145814" src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" />
- </td>
-          <td width="33%"> <img width="1895" height="868" alt="Screenshot 2025-12-20 145135" src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" />
- </td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" alt="Feasto screenshot 1" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" alt="Feasto screenshot 2" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" alt="Feasto screenshot 3" width="90%" /></td>
         </tr>
       </table>
     </td>
@@ -128,14 +125,14 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td width="58%" valign="top">
-      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="100%" />
+    <td width="58%" valign="top" align="center">
+      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="92%" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
         <tr>
-          <td width="33%"><img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="100%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="90%" /></td>
         </tr>
       </table>
     </td>
@@ -168,28 +165,27 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
 
 ## Stack
 
-<table border="1" cellspacing="0" cellpadding="14" width="100%">
+<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-collapse:collapse;">
   <tr>
-    <td width="50%" valign="top">
-      <strong>Core Stack</strong><br /><br />
-      <table border="0" cellspacing="0" cellpadding="8" width="100%">
-        <tr>
-          <td width="50%"><strong>Frontend</strong><br />React.js, HTML5, CSS3, Tailwind CSS, Vite</td>
-          <td width="50%"><strong>Backend</strong><br />Node.js, Express.js, REST APIs, JWT, async flows</td>
-        </tr>
-        <tr>
-          <td width="50%"><strong>Database</strong><br />MongoDB, MySQL</td>
-          <td width="50%"><strong>Tools</strong><br />Git, GitHub, Postman, VS Code, Vercel, Render</td>
-        </tr>
-      </table>
+    <td width="34%" valign="top">
+      <strong>Frontend</strong><br />
+      React.js, HTML5, CSS3, Tailwind CSS, Vite
     </td>
-    <td width="50%" valign="top">
-      <strong>Technology Rail</strong><br /><br />
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=5&theme=dark" alt="Tech stack" />
-      </div>
+    <td width="34%" valign="top">
+      <strong>Backend</strong><br />
+      Node.js, Express.js, REST APIs, JWT, async flows
+    </td>
+    <td width="32%" valign="top">
+      <strong>Database + Tools</strong><br />
+      MongoDB, MySQL, Git, GitHub, Postman, VS Code, Vercel, Render
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" valign="top">
       <br />
-      <p align="center"><em>Modern stack. Clean tooling. Product-ready workflow.</em></p>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=7&theme=dark" alt="Tech stack" />
+      <br /><br />
+      <em>Modern stack. Clean tooling. Product-ready workflow.</em>
     </td>
   </tr>
 </table>

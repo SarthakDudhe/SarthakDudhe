@@ -1,7 +1,6 @@
 <div align="center">
   <video width="960" height="540" controls muted playsinline preload="metadata" style="width:100%; max-width:960px; height:auto;">
-    <img width="2816" height="1536" alt="Gemini_Generated_Image_q40z52q40z52q40z" src="https://github.com/user-attachments/assets/3b6d2c20-6678-42d0-a9aa-c3c19411fd8f" />
-
+    <source src="https://github.com/user-attachments/assets/6496029b-b89d-4aa2-b666-67e5839793a1" type="video/mp4" />
   </video>
 </div>
 

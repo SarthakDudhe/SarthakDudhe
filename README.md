@@ -1,9 +1,7 @@
 <div align="center">
-  
-
-https://github.com/user-attachments/assets/6496029b-b89d-4aa2-b666-67e5839793a1
-
-
+  <video width="960" height="540" controls muted playsinline preload="metadata" style="width:100%; max-width:960px; height:auto;">
+    <source src="https://github.com/user-attachments/assets/6496029b-b89d-4aa2-b666-67e5839793a1" type="video/mp4" />
+  </video>
 </div>
 
 <p align="center">

@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,0ea5e9&height=240&section=header&text=Sarthak%20Dudhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<video 
+  src="https://github.com/user-attachments/assets/6496029b-b89d-4aa2-b666-67e5839793a1"
+  autoplay
+  loop
+  muted
+  playsinline
+  style="width:100%; max-width:1100px; height:auto; border-radius:18px; box-shadow:0 10px 40px rgba(0,0,0,0.5);">
+</video>
 
-<h2>⚡ Full-Stack MERN Developer</h2>
+<br/><br/>
+
+<h1>SARTHAK DUDHE</h1>
 
 <p>
-I build <b>production-ready web apps</b> with clean UI, scalable backend systems,  
-and real-time experiences.
+Full Stack Developer • MERN • AI • Real-Time Systems
 </p>
 
 <br/>
@@ -31,21 +39,29 @@ and real-time experiences.
 
 ---
 
-## 🧊 Snapshot (SaaS Metrics Style)
+## 🧊 Snapshot
 
 <div align="center">
 
-| 🚀 Projects | ⚡ Tech Stack | 🧠 Focus | 🔥 Status |
-|------------|-------------|---------|----------|
-| 10+ Built  | MERN + AI   | Full-Stack Systems | Actively Building |
+| 🚀 Projects | ⚡ Stack | 🧠 Focus | 🔥 Status |
+|------------|--------|---------|----------|
+| 10+ Built  | MERN + AI | Full-Stack Systems | Actively Building |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=footer"/>
+## 🧠 About Me
 
-## 🧠 Featured Work
+I build **production-ready web applications** with clean UI, scalable backend systems, and real-time capabilities.
+
+- Focus on **performance + UX**
+- Strong in **MERN stack**
+- Building **real-world impactful products**
+
+---
+
+## 🚀 Featured Projects
 
 ---
 
@@ -64,7 +80,7 @@ AI-powered platform for resume intelligence, job discovery, and skill-gap analys
 
 <div align="center">
 
-`React` `Node.js` `MongoDB` `Llama 3` `Clerk`
+`React` `Node.js` `MongoDB` `Express` `Llama 3` `Clerk`
 
 <br/><br/>
 
@@ -80,7 +96,7 @@ AI-powered platform for resume intelligence, job discovery, and skill-gap analys
 
 ---
 
-### 🍔 Feasto — Food Delivery System
+### 🍔 Feasto — Food Delivery Platform
 
 <div align="center">
 
@@ -90,7 +106,7 @@ AI-powered platform for resume intelligence, job discovery, and skill-gap analys
 </div>
 
 <p align="center">
-Full-stack food ordering platform with payments and live order tracking.
+Full-stack food ordering system with cart, payments, and live tracking.
 </p>
 
 <div align="center">
@@ -111,7 +127,7 @@ Full-stack food ordering platform with payments and live order tracking.
 
 ---
 
-### 💬 QuickChat — Real-Time Messaging
+### 💬 QuickChat — Real-Time Chat App
 
 <div align="center">
 
@@ -121,7 +137,7 @@ Full-stack food ordering platform with payments and live order tracking.
 </div>
 
 <p align="center">
-Real-time chat app powered by WebSockets and event-driven architecture.
+Real-time messaging with WebSockets and event-driven architecture.
 </p>
 
 <div align="center">
@@ -142,8 +158,6 @@ Real-time chat app powered by WebSockets and event-driven architecture.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=footer"/>
-
 ## ⚙️ Tech Stack
 
 <div align="center">
@@ -154,7 +168,7 @@ Real-time chat app powered by WebSockets and event-driven architecture.
 
 ---
 
-## 📊 Developer Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -176,12 +190,10 @@ Real-time chat app powered by WebSockets and event-driven architecture.
 _Aug 2025 – Nov 2025_
 
 - Built scalable REST APIs  
-- Improved performance & debugging  
-- Designed reusable frontend components  
+- Improved performance and debugging  
+- Created reusable UI components  
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=footer"/>
 
 ## 📬 Contact
 
@@ -205,6 +217,6 @@ _Aug 2025 – Nov 2025_
 
 <div align="center">
 
-### ⚡ Built like a SaaS product. Not just a portfolio.
+### ⚡ Built like a product. Shipped with intent.
 
 </div>

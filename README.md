@@ -36,28 +36,40 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
 
 ## Featured Projects
 
+<p>Selected builds that show the kind of products I like to ship: practical, fast, and visually clean.</p>
+
 ### InsiderJobs
 
 <table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="100%" />
+    <td width="70%" valign="top">
+      <strong>INSIDERJOBS</strong><br />
+      <em>Full-Stack AI Career Ecosystem</em>
     </td>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top" align="right">
+      <a href="https://insiderjobs.vercel.app/" target="_blank">LIVE</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/SarthakDudhe/InsiderJobs" target="_blank">SOURCE</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="58%" valign="top">
+      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="100%" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+        <tr>
+          <td width="33%"><img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="100%" /></td>
+        </tr>
+      </table>
+    </td>
+    <td width="42%" valign="top">
       <strong>Full-Stack AI Career Ecosystem</strong><br /><br />
       Resume intelligence, skill-gap analysis, and job discovery.
       <br /><br />
-      <strong>Preview Slots</strong><br />
-      <code>./assets/projects/insiderjobs/01.png</code><br />
-      <code>./assets/projects/insiderjobs/02.png</code><br />
-      <code>./assets/projects/insiderjobs/03.png</code>
-      <br /><br />
-      <a href="https://insiderjobs.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="InsiderJobs live" />
-      </a>
-      <a href="https://github.com/SarthakDudhe/InsiderJobs" target="_blank">
-        <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="InsiderJobs source" />
-      </a>
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Llama 3, SerpApi, Clerk, Cloudinary
     </td>
   </tr>
 </table>
@@ -66,58 +78,73 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
 
 <table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
+      <strong>FEASTO</strong><br />
+      <em>Food Ordering Platform</em>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <a href="https://feasto-delta.vercel.app/" target="_blank">LIVE</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform" target="_blank">SOURCE</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
       <strong>Food Ordering Platform</strong><br /><br />
       Food ordering, cart flow, tracking, and Stripe checkout.
       <br /><br />
-      <strong>Preview Slots</strong><br />
-      <code>./assets/projects/feasto/cover.png</code><br />
-      <code>./assets/projects/feasto/01.png</code><br />
-      <code>./assets/projects/feasto/02.png</code><br />
-      <code>./assets/projects/feasto/03.png</code>
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Stripe API, JWT, CSS
     </td>
-    <td width="50%" valign="top">
+    <td width="58%" valign="top">
       <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="100%" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+        <tr>
+          <td width="33%"><img src="./assets/projects/feasto/01.png" alt="Feasto screenshot 1" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/feasto/02.png" alt="Feasto screenshot 2" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/feasto/03.png" alt="Feasto screenshot 3" width="100%" /></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
-<p>
-  <a href="https://feasto-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Feasto live" />
-  </a>
-  <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="Feasto source" />
-  </a>
-</p>
 
 ### QuickChat
 
 <table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="100%" />
+    <td width="70%" valign="top">
+      <strong>QUICKCHAT</strong><br />
+      <em>Real-Time Chat Application</em>
     </td>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top" align="right">
+      <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">LIVE</a>
+      &nbsp;|&nbsp;
+      <a href="https://github.com/SarthakDudhe/ChatApplication" target="_blank">SOURCE</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="58%" valign="top">
+      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="100%" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="100%">
+        <tr>
+          <td width="33%"><img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="100%" /></td>
+          <td width="33%"><img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="100%" /></td>
+        </tr>
+      </table>
+    </td>
+    <td width="42%" valign="top">
       <strong>Real-Time Chat Application</strong><br /><br />
       Event-driven messaging with Socket.IO and authentication.
       <br /><br />
-      <strong>Preview Slots</strong><br />
-      <code>./assets/projects/quickchat/01.png</code><br />
-      <code>./assets/projects/quickchat/02.png</code><br />
-      <code>./assets/projects/quickchat/03.png</code>
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS, Vite
     </td>
   </tr>
 </table>
-
-<p>
-  <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="QuickChat live" />
-  </a>
-  <a href="https://github.com/SarthakDudhe/ChatApplication" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="QuickChat source" />
-  </a>
-</p>
 
 <br />
 
@@ -140,28 +167,29 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
 
 <table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <strong>Frontend</strong><br />
-      React.js, HTML5, CSS3, Tailwind CSS, Vite
+    <td width="50%" valign="top">
+      <strong>Core Stack</strong><br /><br />
+      <table border="0" cellspacing="0" cellpadding="8" width="100%">
+        <tr>
+          <td width="50%"><strong>Frontend</strong><br />React.js, HTML5, CSS3, Tailwind CSS, Vite</td>
+          <td width="50%"><strong>Backend</strong><br />Node.js, Express.js, REST APIs, JWT, async flows</td>
+        </tr>
+        <tr>
+          <td width="50%"><strong>Database</strong><br />MongoDB, MySQL</td>
+          <td width="50%"><strong>Tools</strong><br />Git, GitHub, Postman, VS Code, Vercel, Render</td>
+        </tr>
+      </table>
     </td>
-    <td width="25%" valign="top">
-      <strong>Backend</strong><br />
-      Node.js, Express.js, REST APIs, JWT, async flows
-    </td>
-    <td width="25%" valign="top">
-      <strong>Database</strong><br />
-      MongoDB, MySQL
-    </td>
-    <td width="25%" valign="top">
-      <strong>Tools</strong><br />
-      Git, GitHub, Postman, VS Code, Vercel, Render
+    <td width="50%" valign="top">
+      <strong>Technology Rail</strong><br /><br />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=5&theme=dark" alt="Tech stack" />
+      </div>
+      <br />
+      <p align="center"><em>Modern stack. Clean tooling. Product-ready workflow.</em></p>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8&theme=dark" alt="Tech stack" />
-</div>
 
 <br />
 

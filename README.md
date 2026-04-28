@@ -1,14 +1,6 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0A192F,112240,64FFDA&height=220&section=header&text=SARTHAK%20DUDHE&fontSize=64&fontColor=64FFDA&animation=fadeIn&fontAlignY=38"
-    width="100%"
-    alt="Sarthak Dudhe"
-  />
+  <img src="./assets/hero.svg" alt="Sarthak Dudhe hero banner" width="100%" />
 </div>
-
-<p align="center">
-  <strong>Full-Stack MERN Developer</strong> | <strong>Real-Time Systems</strong> | <strong>API Design</strong> | <strong>Performance Optimization</strong>
-</p>
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
@@ -26,198 +18,129 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=PROFILE%20VIEWS&color=64FFDA&style=flat-square"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=PROFILE%20VIEWS&color=64FFDA&style=flat-square" alt="Profile views" />
 </p>
 
 <br />
 
-> Building production-ready web applications with a clean product mindset, scalable backend systems, and polished user interfaces.
+<p align="center"><em>Clean systems. Sharp interfaces. Real-time products that feel finished.</em></p>
 
 <br />
 
-## Overview
-
-I am a full-stack developer based in India, focused on shipping modern MERN applications with strong backend logic, secure authentication, and real-time features.
-
-My work combines product thinking and engineering discipline. I care about the structure beneath the interface, not just the interface itself.
+## Identity Strip
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Location</strong><br />
-      Dombivli, Maharashtra, India
+      <strong>Role</strong><br />
+      Full-Stack Developer
     </td>
     <td width="33%" valign="top">
       <strong>Focus</strong><br />
-      React, Node.js, Express.js, MongoDB, Socket.IO
+      MERN, APIs, Socket.IO, JWT
     </td>
     <td width="33%" valign="top">
-      <strong>Seeking</strong><br />
-      Software Engineer and Full-Stack Developer roles
+      <strong>Base</strong><br />
+      Dombivli, Maharashtra, India
     </td>
   </tr>
 </table>
 
 <br />
 
-## Why This README Feels Premium
+## About
 
-The most attractive developer profiles usually do three things well:
+I'm a full-stack developer from India.
 
-1. They feel intentional, not crowded.
-2. They tell a story around value, not just tools.
-3. They show proof through projects, metrics, and structure.
-
-This version follows that approach with a darker editorial palette, fewer distractions, stronger spacing, and resume-aligned content.
+I build MERN applications, REST APIs, and real-time features with a focus on clean execution, stable backend logic, and polished UI.
 
 <br />
 
-## Core Strengths
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Engineering Depth</h3>
-      <ul>
-        <li>MERN stack application architecture</li>
-        <li>RESTful API design and backend integration</li>
-        <li>JWT authentication and asynchronous programming</li>
-        <li>Real-time communication using Socket.IO</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Product Quality</h3>
-      <ul>
-        <li>Performance-aware implementation</li>
-        <li>Reusable frontend component systems</li>
-        <li>Clean UX and responsive UI patterns</li>
-        <li>Reliable delivery with production thinking</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Experience
-
-<table>
-  <tr>
-    <td>
-      <h3>Software Engineer Intern - Sapphire Infocom Pvt. Ltd.</h3>
-      <p><i>August 14, 2025 - November 13, 2025 | India</i></p>
-      <ul>
-        <li>Designed and implemented RESTful APIs using Node.js and Express.js to support application features and data flow.</li>
-        <li>Developed reusable frontend components using React.js and integrated APIs for dynamic content rendering.</li>
-        <li>Debugged and optimized application performance, improving reliability and reducing response issues.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Featured Projects
+## Selected Work
 
 ### InsiderJobs
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>Positioning</strong><br />
-      Full-Stack AI Career Ecosystem
+    <td width="58%" valign="top">
+      <strong>Full-Stack AI Career Ecosystem</strong><br /><br />
+      A recruitment platform built around resume intelligence, skill-gap analysis, and real-time job aggregation.
+      <br /><br />
+      <strong>What stands out:</strong><br />
+      Resume parsing with Llama 3, structured skill insights from PDF data, role-based auth, and decoupled API design.
     </td>
-    <td width="33%" valign="top">
-      <strong>Core Value</strong><br />
-      Resume parsing, skill analysis, and job aggregation
-    </td>
-    <td width="33%" valign="top">
+    <td width="42%" valign="top">
       <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Llama 3, SerpApi, Clerk, Cloudinary
+      React.js<br />
+      Node.js<br />
+      Express.js<br />
+      MongoDB<br />
+      Llama 3 (Groq)<br />
+      SerpApi<br />
+      Clerk<br />
+      Cloudinary
     </td>
   </tr>
 </table>
-
-<ul>
-  <li>Built a full-stack recruitment platform with a decoupled RESTful API architecture for scalable data handling.</li>
-  <li>Integrated Llama 3 through Groq API to parse resumes and generate structured skill insights from PDF data.</li>
-  <li>Developed skill gap analysis and real-time job aggregation with role-based authentication.</li>
-</ul>
 
 ### Feasto
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>Positioning</strong><br />
-      Full-Stack Food Ordering Platform
+    <td width="58%" valign="top">
+      <strong>Full-Stack Food Ordering Platform</strong><br /><br />
+      A food ordering system with authentication, cart flows, order tracking, and Stripe-powered payments.
+      <br /><br />
+      <strong>What stands out:</strong><br />
+      Backend services designed for clean order flow and secure checkout.
     </td>
-    <td width="33%" valign="top">
-      <strong>Core Value</strong><br />
-      Ordering flow, cart management, and payments
-    </td>
-    <td width="33%" valign="top">
+    <td width="42%" valign="top">
       <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Stripe, JWT, CSS
+      React.js<br />
+      Node.js<br />
+      Express.js<br />
+      MongoDB<br />
+      Stripe API<br />
+      JWT<br />
+      CSS
     </td>
   </tr>
 </table>
 
-<ul>
-  <li>Developed a full-stack food ordering system with authentication, cart management, and order tracking features.</li>
-  <li>Designed RESTful APIs and backend services using Node.js, Express.js, and MongoDB.</li>
-  <li>Integrated Stripe for secure payments and efficient order processing.</li>
-</ul>
-
-<p>
-  <a href="https://feasto-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Live" />
-  </a>
-  <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-64FFDA?style=for-the-badge&logoColor=0A192F" alt="Source code" />
-  </a>
-</p>
+- Live: [Feasto](https://feasto-delta.vercel.app/)
+- Source: [Feasto-Food-Delivery-Platform](https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform)
 
 ### QuickChat
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>Positioning</strong><br />
-      Real-Time Chat Application
+    <td width="58%" valign="top">
+      <strong>Real-Time Chat Application</strong><br /><br />
+      A Socket.IO-powered chat platform with event-driven messaging and secure authentication.
+      <br /><br />
+      <strong>What stands out:</strong><br />
+      Real-time architecture, JWT auth, and file upload handling for a smoother messaging flow.
     </td>
-    <td width="33%" valign="top">
-      <strong>Core Value</strong><br />
-      Secure event-driven communication
-    </td>
-    <td width="33%" valign="top">
+    <td width="42%" valign="top">
       <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS, Vite
+      React.js<br />
+      Node.js<br />
+      Express.js<br />
+      MongoDB<br />
+      Socket.IO<br />
+      JWT<br />
+      Tailwind CSS<br />
+      Vite
     </td>
   </tr>
 </table>
 
-<ul>
-  <li>Built a real-time chat application using Socket.IO with event-driven messaging architecture.</li>
-  <li>Developed RESTful APIs for authentication and messaging using Node.js and Express.js.</li>
-  <li>Implemented JWT-based authentication and file upload handling for secure communication.</li>
-</ul>
-
-<p>
-  <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Live" />
-  </a>
-  <a href="https://github.com/SarthakDudhe/ChatApplication" target="_blank">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-64FFDA?style=for-the-badge&logoColor=0A192F" alt="Source code" />
-  </a>
-</p>
+- Live: [QuickChat](https://chat-application-eight-wine.vercel.app/login)
+- Source: [ChatApplication](https://github.com/SarthakDudhe/ChatApplication)
 
 <br />
 
-## Technical Arsenal
+## Core Stack
 
 <table>
   <tr>
@@ -241,48 +164,31 @@ This version follows that approach with a darker editorial palette, fewer distra
 </table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8&theme=dark" alt="Tech stack icons" />
 </div>
 
 <br />
 
-## Education
+## Snapshot
 
 <table>
   <tr>
-    <td>
-      <strong>B.E. in Computer Engineering</strong><br />
-      University of Mumbai<br />
-      CGPA: 8.99/10<br />
-      Aug 2023 - Present
+    <td width="50%" valign="top">
+      <strong>Experience</strong><br />
+      Software Engineer Intern at Sapphire Infocom Pvt. Ltd.<br />
+      Built REST APIs, reusable React components, and improved application reliability.
     </td>
-    <td>
-      <strong>Higher Secondary Certificate</strong><br />
-      S.I.A Junior College<br />
-      78.17%<br />
-      Completed 2023
+    <td width="50%" valign="top">
+      <strong>Background</strong><br />
+      B.E. in Computer Engineering, University of Mumbai, CGPA 8.99/10.<br />
+      Strong base in DSA, OOP, DBMS, and operating systems.
     </td>
   </tr>
 </table>
 
 <br />
 
-## Certifications
-
-<table>
-  <tr>
-    <td>
-      Java Programming Certification - IBM SkillsBuild (2024)
-    </td>
-    <td>
-      Full-Stack Web Development with MERN - Coursera (2025)
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## GitHub Activity
+## GitHub Motion
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthakdudhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF&icon_color=64FFDA" alt="GitHub Stats" />
@@ -299,11 +205,24 @@ This version follows that approach with a darker editorial palette, fewer distra
 
 <br />
 
+## Credentials
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      Java Programming Certification - IBM SkillsBuild (2024)
+    </td>
+    <td width="50%" valign="top">
+      Full-Stack Web Development with MERN - Coursera (2025)
+    </td>
+  </tr>
+</table>
 
 <br />
 
-## Connect
+## Contact
+
+If you want to talk code, product, or collaboration:
 
 <p align="center">
   <a href="mailto:sarthakdudhe79@gmail.com">
@@ -321,5 +240,5 @@ This version follows that approach with a darker editorial palette, fewer distra
 </p>
 
 <div align="center">
-  <p><strong>Built with precision, shipped with care.</strong></p>
+  <p><strong>Built to look sharp. Built to ship.</strong></p>
 </div>

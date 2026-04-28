@@ -54,13 +54,13 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
   </tr>
   <tr>
     <td width="58%" valign="top" align="center">
-      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="92%" />
+      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
+      <table border="0" cellspacing="0" cellpadding="6" width="100%" align="center">
         <tr>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
         </tr>
       </table>
     </td>
@@ -97,13 +97,13 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
       React.js, Node.js, Express.js, MongoDB, Stripe API, JWT, CSS
     </td>
     <td width="58%" valign="top" align="center">
-      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="92%" />
+      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
+      <table border="0" cellspacing="0" cellpadding="6" width="100%" align="center">
         <tr>
-          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" alt="Feasto screenshot 1" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" alt="Feasto screenshot 2" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" alt="Feasto screenshot 3" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" alt="Feasto screenshot 1" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" alt="Feasto screenshot 2" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" alt="Feasto screenshot 3" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
         </tr>
       </table>
     </td>
@@ -126,13 +126,13 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
   </tr>
   <tr>
     <td width="58%" valign="top" align="center">
-      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="92%" />
+      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="6" width="92%" align="center">
+      <table border="0" cellspacing="0" cellpadding="6" width="100%" align="center">
         <tr>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="90%" /></td>
-          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="90%" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
+          <td width="33%" align="center" valign="top"><img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="170" style="max-width:170px; width:100%; height:auto; display:block; margin:0 auto;" /></td>
         </tr>
       </table>
     </td>

@@ -101,9 +101,12 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
       <br /><br />
       <table border="0" cellspacing="0" cellpadding="6" width="100%">
         <tr>
-          <td width="33%"><img src="./assets/projects/feasto/01.png" alt="Feasto screenshot 1" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/feasto/02.png" alt="Feasto screenshot 2" width="100%" /></td>
-          <td width="33%"><img src="./assets/projects/feasto/03.png" alt="Feasto screenshot 3" width="100%" /></td>
+          <td width="33%">   <img width="1898" height="867" alt="Screenshot 2025-12-20 145836" src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" />
+ </td>
+          <td width="33%"> <img width="1901" height="873" alt="Screenshot 2025-12-20 145814" src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" />
+ </td>
+          <td width="33%"> <img width="1895" height="868" alt="Screenshot 2025-12-20 145135" src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" />
+ </td>
         </tr>
       </table>
     </td>

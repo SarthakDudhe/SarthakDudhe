@@ -1,76 +1,89 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Sarthak Dudhe hero banner" width="100%" />
+  <table border="1" cellspacing="0" cellpadding="18" width="100%">
+    <tr>
+      <td width="68%" valign="top">
+        <p><strong>SYSTEM / 01</strong></p>
+        <h1>SARTHAK DUDHE</h1>
+        <p><strong>Full-Stack MERN Developer</strong></p>
+        <p>React, Node.js, Express.js, MongoDB, Socket.IO, JWT</p>
+      </td>
+      <td width="32%" valign="top">
+        <p><strong>STATUS / 02</strong></p>
+        <p>Software Engineer Intern</p>
+        <p>Building production-ready web products</p>
+        <p>Dombivli, Maharashtra, India</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=64FFDA" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SarthakDudhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="GitHub" />
   </a>
   <a href="mailto:sarthakdudhe79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=64FFDA" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=PROFILE%20VIEWS&color=64FFDA&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sarthakdudhe&label=VIEW_COUNT&color=64FFDA&style=flat-square" alt="Profile views" />
 </p>
 
-<br />
+<p align="center"><em>Less noise. Better structure. Cleaner shipping.</em></p>
 
-<p align="center"><em>Clean systems. Sharp interfaces. Real-time products that feel finished.</em></p>
+<hr />
 
-<br />
+## SIGNAL / 03
 
-## Identity Strip
-
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <strong>Role</strong><br />
+      <strong>ROLE</strong><br />
       Full-Stack Developer
     </td>
     <td width="33%" valign="top">
-      <strong>Focus</strong><br />
-      MERN, APIs, Socket.IO, JWT
+      <strong>FOCUS</strong><br />
+      Backend logic, real-time apps, clean UI execution
     </td>
     <td width="33%" valign="top">
-      <strong>Base</strong><br />
-      Dombivli, Maharashtra, India
+      <strong>MODE</strong><br />
+      Build, ship, refine
     </td>
   </tr>
 </table>
 
 <br />
 
-## About
+## ABOUT / 04
 
-I'm a full-stack developer from India.
+I build MERN applications with a bias toward clarity, speed, and dependable architecture.
 
-I build MERN applications, REST APIs, and real-time features with a focus on clean execution, stable backend logic, and polished UI.
+I like interfaces that feel sharp and systems that stay calm under load.
 
 <br />
 
-## Selected Work
+## SELECTED WORK / 05
 
-### InsiderJobs
+### 01. INSIDERJOBS
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <strong>Full-Stack AI Career Ecosystem</strong><br /><br />
-      A recruitment platform built around resume intelligence, skill-gap analysis, and real-time job aggregation.
+      A recruitment platform built around resume intelligence, skill-gap analysis, and job discovery.
       <br /><br />
-      <strong>What stands out:</strong><br />
-      Resume parsing with Llama 3, structured skill insights from PDF data, role-based auth, and decoupled API design.
+      <strong>Highlights</strong><br />
+      Resume parsing with Llama 3, structured skill extraction from PDF data, role-based auth, and decoupled API design.
     </td>
-    <td width="42%" valign="top">
-      <strong>Stack</strong><br />
+    <td width="40%" valign="top">
+      <strong>STACK</strong><br />
       React.js<br />
       Node.js<br />
       Express.js<br />
@@ -83,19 +96,19 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
   </tr>
 </table>
 
-### Feasto
+### 02. FEASTO
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <strong>Full-Stack Food Ordering Platform</strong><br /><br />
-      A food ordering system with authentication, cart flows, order tracking, and Stripe-powered payments.
+      A food ordering system with authentication, cart flow, order tracking, and Stripe checkout.
       <br /><br />
-      <strong>What stands out:</strong><br />
-      Backend services designed for clean order flow and secure checkout.
+      <strong>Highlights</strong><br />
+      Secure transactions, clean order lifecycle, and backend services designed for smooth product flow.
     </td>
-    <td width="42%" valign="top">
-      <strong>Stack</strong><br />
+    <td width="40%" valign="top">
+      <strong>STACK</strong><br />
       React.js<br />
       Node.js<br />
       Express.js<br />
@@ -107,22 +120,28 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
   </tr>
 </table>
 
-- Live: [Feasto](https://feasto-delta.vercel.app/)
-- Source: [Feasto-Food-Delivery-Platform](https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform)
+<p>
+  <a href="https://feasto-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Feasto live" />
+  </a>
+  <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform" target="_blank">
+    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="Feasto source" />
+  </a>
+</p>
 
-### QuickChat
+### 03. QUICKCHAT
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <strong>Real-Time Chat Application</strong><br /><br />
-      A Socket.IO-powered chat platform with event-driven messaging and secure authentication.
+      A Socket.IO-based messaging product with event-driven communication and authentication.
       <br /><br />
-      <strong>What stands out:</strong><br />
-      Real-time architecture, JWT auth, and file upload handling for a smoother messaging flow.
+      <strong>Highlights</strong><br />
+      Realtime messaging, JWT auth, and file upload handling in a responsive chat interface.
     </td>
-    <td width="42%" valign="top">
-      <strong>Stack</strong><br />
+    <td width="40%" valign="top">
+      <strong>STACK</strong><br />
       React.js<br />
       Node.js<br />
       Express.js<br />
@@ -135,14 +154,35 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
   </tr>
 </table>
 
-- Live: [QuickChat](https://chat-application-eight-wine.vercel.app/login)
-- Source: [ChatApplication](https://github.com/SarthakDudhe/ChatApplication)
+<p>
+  <a href="https://chat-application-eight-wine.vercel.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="QuickChat live" />
+  </a>
+  <a href="https://github.com/SarthakDudhe/ChatApplication" target="_blank">
+    <img src="https://img.shields.io/badge/SOURCE-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="QuickChat source" />
+  </a>
+</p>
 
 <br />
 
-## Core Stack
+## INTERNSHIP / 06
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
+  <tr>
+    <td>
+      <strong>Software Engineer Intern - Sapphire Infocom Pvt. Ltd.</strong><br />
+      August 14, 2025 - November 13, 2025
+      <br /><br />
+      Designed RESTful APIs with Node.js and Express.js, built reusable React components, integrated APIs into dynamic flows, and improved application reliability through debugging and performance tuning.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## STACK / 07
+
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
     <td width="25%" valign="top">
       <strong>Frontend</strong><br />
@@ -150,7 +190,7 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
     </td>
     <td width="25%" valign="top">
       <strong>Backend</strong><br />
-      Node.js, Express.js, REST APIs, JWT, Async Programming
+      Node.js, Express.js, REST APIs, JWT, async flows
     </td>
     <td width="25%" valign="top">
       <strong>Database</strong><br />
@@ -164,31 +204,33 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
 </table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,nodejs,express,mongodb,mysql,docker,git,linux,postman,figma,vscode&perline=8&theme=dark" alt="Tech stack" />
 </div>
 
 <br />
 
-## Snapshot
+## BUILD NOTES / 08
 
-<table>
+<table border="1" cellspacing="0" cellpadding="14" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>Experience</strong><br />
-      Software Engineer Intern at Sapphire Infocom Pvt. Ltd.<br />
-      Built REST APIs, reusable React components, and improved application reliability.
+    <td width="33%" valign="top">
+      <strong>PRINCIPLE</strong><br />
+      Keep the structure clean.
     </td>
-    <td width="50%" valign="top">
-      <strong>Background</strong><br />
-      B.E. in Computer Engineering, University of Mumbai, CGPA 8.99/10.<br />
-      Strong base in DSA, OOP, DBMS, and operating systems.
+    <td width="33%" valign="top">
+      <strong>PRINCIPLE</strong><br />
+      Make the interface feel intentional.
+    </td>
+    <td width="33%" valign="top">
+      <strong>PRINCIPLE</strong><br />
+      Ship things that work in production.
     </td>
   </tr>
 </table>
 
 <br />
 
-## GitHub Motion
+## ACTIVITY / 09
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthakdudhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0A192F&title_color=64FFDA&text_color=E6F1FF&icon_color=64FFDA" alt="GitHub Stats" />
@@ -205,40 +247,23 @@ I build MERN applications, REST APIs, and real-time features with a focus on cle
 
 <br />
 
-## Credentials
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      Java Programming Certification - IBM SkillsBuild (2024)
-    </td>
-    <td width="50%" valign="top">
-      Full-Stack Web Development with MERN - Coursera (2025)
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Contact
-
-If you want to talk code, product, or collaboration:
+## CONTACT / 10
 
 <p align="center">
   <a href="mailto:sarthakdudhe79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=64FFDA" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=64FFDA" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SarthakDudhe" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=64FFDA" alt="GitHub" />
   </a>
   <a href="https://portfolio-sarthak-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=64FFDA" alt="Portfolio" />
   </a>
 </p>
 
-<div align="center">
-  <p><strong>Built to look sharp. Built to ship.</strong></p>
-</div>
+<p align="center">
+  <strong>Built with structure. Shipped with intent.</strong>
+</p>

@@ -40,7 +40,7 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
 
 ### InsiderJobs
 
-<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-collapse:collapse;">
+<table border="1" cellspacing="0" cellpadding="14" width="88%" align="center" style="border-collapse:collapse;">
   <tr>
     <td width="70%" valign="top">
       <strong>INSIDERJOBS</strong><br />
@@ -53,35 +53,36 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
+    <td width="40%" valign="top">
+      <strong>Overview</strong><br /><br />
+      Resume intelligence, skill-gap analysis, and job discovery.
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="8" width="86%" align="center">
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Llama 3, SerpApi, Clerk, Cloudinary
+    </td>
+    <td width="60%" valign="top" align="center">
+      <img src="./assets/projects/insiderjobs/cover.png" alt="InsiderJobs cover" width="300" style="max-width:300px; width:100%; height:auto; display:block; margin:0 auto;" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="84%" align="center">
         <tr>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/insiderjobs/01.png" alt="InsiderJobs screenshot 1" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/insiderjobs/02.png" alt="InsiderJobs screenshot 2" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/insiderjobs/03.png" alt="InsiderJobs screenshot 3" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Llama 3, SerpApi, Clerk, Cloudinary
     </td>
   </tr>
 </table>
 
 ### Feasto
 
-<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-collapse:collapse;">
+<table border="1" cellspacing="0" cellpadding="14" width="88%" align="center" style="border-collapse:collapse;">
   <tr>
     <td width="70%" valign="top">
       <strong>FEASTO</strong><br />
@@ -94,35 +95,36 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
+    <td width="40%" valign="top">
+      <strong>Overview</strong><br /><br />
+      Food ordering, cart flow, tracking, and Stripe checkout.
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="8" width="86%" align="center">
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Stripe API, JWT, CSS
+    </td>
+    <td width="60%" valign="top" align="center">
+      <img src="./assets/projects/feasto/cover.png" alt="Feasto cover" width="300" style="max-width:300px; width:100%; height:auto; display:block; margin:0 auto;" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="84%" align="center">
         <tr>
           <td width="33%" align="center" valign="top">
-            <img src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" alt="Feasto screenshot 1" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="https://github.com/user-attachments/assets/c20805e7-9017-4f8a-8b2c-58ea1829b775" alt="Feasto screenshot 1" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" alt="Feasto screenshot 2" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="https://github.com/user-attachments/assets/0c2e353d-6fb4-4616-8b25-c30e89a4b7a1" alt="Feasto screenshot 2" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" alt="Feasto screenshot 3" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="https://github.com/user-attachments/assets/6e753074-499f-431e-b242-3b2cb5e86c9e" alt="Feasto screenshot 3" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Stripe API, JWT, CSS
     </td>
   </tr>
 </table>
 
 ### QuickChat
 
-<table border="1" cellspacing="0" cellpadding="14" width="100%" style="border-collapse:collapse;">
+<table border="1" cellspacing="0" cellpadding="14" width="88%" align="center" style="border-collapse:collapse;">
   <tr>
     <td width="70%" valign="top">
       <strong>QUICKCHAT</strong><br />
@@ -135,28 +137,29 @@ I build MERN applications with a focus on clean interfaces, solid backend logic,
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="420" style="max-width:420px; width:100%; height:auto; display:block; margin:0 auto;" />
+    <td width="40%" valign="top">
+      <strong>Overview</strong><br /><br />
+      Event-driven messaging with Socket.IO and authentication.
       <br /><br />
-      <table border="0" cellspacing="0" cellpadding="8" width="86%" align="center">
+      <strong>Stack</strong><br />
+      React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS, Vite
+    </td>
+    <td width="60%" valign="top" align="center">
+      <img src="./assets/projects/quickchat/cover.png" alt="QuickChat cover" width="300" style="max-width:300px; width:100%; height:auto; display:block; margin:0 auto;" />
+      <br /><br />
+      <table border="0" cellspacing="0" cellpadding="6" width="84%" align="center">
         <tr>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/quickchat/01.png" alt="QuickChat screenshot 1" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/quickchat/02.png" alt="QuickChat screenshot 2" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
           <td width="33%" align="center" valign="top">
-            <img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="165" style="max-width:165px; width:100%; height:auto; display:block; margin:0 auto;" />
+            <img src="./assets/projects/quickchat/03.png" alt="QuickChat screenshot 3" width="100" style="max-width:100px; width:100%; height:auto; display:block; margin:0 auto;" />
           </td>
         </tr>
       </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>Stack</strong><br />
-      React.js, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS, Vite
     </td>
   </tr>
 </table>

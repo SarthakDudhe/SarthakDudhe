@@ -27,7 +27,7 @@
     REPLACE THIS IMAGE WITH YOUR GENERATED BANNER
     We're using a dynamic gradient SVG as a placeholder. 
   -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Sarthak&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=55&descSize=20&animation=twinkling" alt="Sarthak Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Sarthak Dudhe&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=55&descSize=20&animation=twinkling" alt="Sarthak Banner" width="100%">
 
   <br><br>
 

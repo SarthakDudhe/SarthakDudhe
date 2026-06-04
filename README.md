@@ -184,9 +184,10 @@
   <br>
   <div align="center">
     <a href="https://quickchat-demo.com">
-    <img src="/assets/quickchat-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 1"/>
-    <img src="/assets/quickchat-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 2"/>
-    <img src="/assets/quickchat-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 3"/>
+    <img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005316" src="https://github.com/user-attachments/assets/30ea21ca-9a8f-4fd5-8913-fcbac651cef9" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005257" src="https://github.com/user-attachments/assets/a4d3bd78-bc21-4b01-abf9-fadc3e5a0059" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005242" src="https://github.com/user-attachments/assets/87921ed1-6380-4c91-8e95-4ab89317cb42" />
+
   </a>
   </div>
   <br>

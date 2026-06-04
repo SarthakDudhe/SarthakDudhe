@@ -142,11 +142,10 @@
   <div align="center">
   <!-- Gallery of product screenshots -->
   <a href="https://insider-jobs-ecru.vercel.app/">
-    <img src="/assets/insiderjobs-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 1"/>
-<img src="/assets/insiderjobs-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 2"/>
-<img src="/assets/insiderjobs-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 3"/>
-    <img src="assets/insiderjobs-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 2">
-    <img src="assets/insiderjobs-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 3">
+    <img  width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 225015" src="https://github.com/user-attachments/assets/f2a3733c-141e-43c2-819f-be87ea4559d2" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 225504" src="https://github.com/user-attachments/assets/bb897096-9393-49fa-a7f0-fbc82ea4e874" />
+<img width="30%" style="margin:5px;border-radius:8px;"" alt="Screenshot 2026-04-26 224818" src="https://github.com/user-attachments/assets/dce7fe67-6bfd-4a3c-a1b2-f52060e87cad" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 223812" src="https://github.com/user-attachments/assets/5e9f1f2f-b4fd-4ce7-8846-326c3109f146" />
   </a>
 </div>
   <br>

@@ -208,7 +208,7 @@
 
 <hr>
 
-<details>
+<details open>
   <summary><b>QuickChat - Real-Time Communication App</b></summary>
   <br>
 
@@ -260,7 +260,7 @@
 
 <hr>
 
-<details>
+<details open>
   <summary><b>Feasto - Food Ordering Platform</b></summary>
   <br>
 

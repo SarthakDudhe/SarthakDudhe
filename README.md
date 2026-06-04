@@ -235,9 +235,12 @@
   <br>
   <p>Engineered a comprehensive e-commerce flow from catalog browsing to checkout. Implemented dynamic cart state management, secured Stripe payment intents on the backend, and architected an admin dashboard for order processing.</p>
   <div align="center">
-    <a href="https://github.com/SarthakDudhe/feasto"><img src="/assets/feasto-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 1"/></a>
-    <a href="https://feasto-food-delivery-platform.onrender.com/"><img src="/assets/feasto-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 2"/></a>
-    <a href="https://feasto-food-delivery-platform.onrender.com/"><img src="/assets/feasto-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 3"/></a>
+   <img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-28 210140" src="https://github.com/user-attachments/assets/08dd98cc-236c-4004-a1de-e566357a452a" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145111" src="https://github.com/user-attachments/assets/2a3cb0df-ccdf-48ae-aef4-434d8e586279" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145135" src="https://github.com/user-attachments/assets/5fabb5a0-7406-4aaa-b962-565f2fbc7794" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145836" src="https://github.com/user-attachments/assets/28b85d14-217c-4219-a573-b1cb11731faa" />
+<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145814" src="https://github.com/user-attachments/assets/ae7fbf70-d0cd-44d8-be50-eff85c377543" />
+
   </div>
 </details>
 

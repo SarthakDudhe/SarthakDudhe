@@ -178,7 +178,6 @@
       <td width="60%" valign="top">
         <h3>Problem</h3>
         <p>Job seekers often struggle to understand how well their resume matches a role and what skills they need to improve before applying.</p>
-
         <h3>What I Built</h3>
         <ul>
           <li><b>AI resume analysis:</b> Used Groq and Llama 3 to analyze resumes and identify skill gaps.</li>
@@ -233,7 +232,6 @@
       <td width="60%" valign="top">
         <h3>Problem</h3>
         <p>Real-time chat apps need reliable message delivery, protected rooms, synchronized UI state, and fast feedback across connected clients.</p>
-
         <h3>What I Built</h3>
         <ul>
           <li><b>Real-time events:</b> Built bidirectional communication using Socket.IO over a Node.js backend.</li>
@@ -288,7 +286,6 @@
       <td width="60%" valign="top">
         <h3>Problem</h3>
         <p>Food ordering platforms need a smooth path from catalog browsing to checkout while keeping cart, payment, and admin workflows reliable.</p>
-
         <h3>What I Built</h3>
         <ul>
           <li><b>Ordering flow:</b> Built catalog browsing, cart state, checkout, and order tracking workflows.</li>

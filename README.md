@@ -23,13 +23,7 @@
 -->
 
 <div align="center">
-  <!-- 
-    REPLACE THIS IMAGE WITH YOUR GENERATED BANNER
-    We're using a dynamic gradient SVG as a placeholder. 
-  -->
-  <img width="1280" height="720" alt="ElevenLabs_image_gpt-image-2_An abstract, _2026-06-04T11_08_46" src="https://github.com/user-attachments/assets/a4a4bede-4056-4e3f-966c-947e1a36cbab" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=SarthakDudhe&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=55&descSize=20&animation=twinkling" alt="Sarthak Banner" width="100%">
+  <img src="banner.png" alt="Sarthak Banner" width="100%">
 
   <br><br>
 
@@ -96,10 +90,7 @@
       <div align="center">
         <h3>Backend & Distributed Systems</h3>
         <p>
-          <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=43853D">
-          <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white">
-          <img src="https://img.shields.io/badge/Socket.io-333333?style=for-the-badge&logo=socket.io&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" /></a>
         </p>
         <p style="font-size: 13px; color: #888;">Designing robust RESTful APIs, real-time WebSocket communication, and scalable NoSQL database schemas.</p>
       </div>
@@ -108,9 +99,7 @@
       <div align="center">
         <h3>Frontend & User Experience</h3>
         <p>
-          <img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB">
-          <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-          <img src="https://img.shields.io/badge/Tailwind-333333?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" /></a>
         </p>
         <p style="font-size: 13px; color: #888;">Crafting responsive, highly interactive, state-driven interfaces with modern React paradigms.</p>
       </div>
@@ -119,25 +108,20 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>AI & External Integrations</h3>
+        <h3>DevOps & Deployment</h3>
         <p>
-          <img src="https://img.shields.io/badge/Groq_API-333333?style=for-the-badge&logo=ai&logoColor=white">
-          <img src="https://img.shields.io/badge/Llama_3-333333?style=for-the-badge&logo=meta&logoColor=white">
-          <img src="https://img.shields.io/badge/Stripe-333333?style=for-the-badge&logo=stripe&logoColor=626CD9">
-          <img src="https://img.shields.io/badge/Clerk-333333?style=for-the-badge&logo=clerk&logoColor=6C47FF">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws&theme=dark" /></a>
         </p>
-        <p style="font-size: 13px; color: #888;">Implementing deterministic LLM workflows, secure checkout pipelines, and robust JWT/OAuth authentication.</p>
+        <p style="font-size: 13px; color: #888;">Managing CI/CD pipelines, edge deployments, and environment configuration for production environments.</p>
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>DevOps & Deployment</h3>
+        <h3>Tools & Infrastructure</h3>
         <p>
-          <img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032">
-          <img src="https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel&logoColor=white">
-          <img src="https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=46E3B7">
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma&theme=dark" /></a>
         </p>
-        <p style="font-size: 13px; color: #888;">Managing CI/CD pipelines, edge deployments, and environment configuration for production environments.</p>
+        <p style="font-size: 13px; color: #888;">Optimizing developer workflows with modern tooling and seamless cloud deployments.</p>
       </div>
     </td>
   </tr>
@@ -270,17 +254,22 @@
 </div>
 <br>
 
+<!-- Trophies (High Impact) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SarthakDudhe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<br><br>
+
 <!-- Premium Transparent Stats Cards -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=444&text_color=999&bg_color=00000000" width="100%" alt="GitHub Stats">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999&bg_color=00000000" width="100%" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 <br><br>
 

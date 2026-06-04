@@ -1,312 +1,400 @@
-<!-- 
-  =======================================================================
-  ✦ S A R T H A K | E L I T E   G I T H U B   P R O F I L E ✦
-  Designed by a simulated team of Elite Design & Engineering Professionals.
-  Inspired by Linear, Vercel, Stripe, and modern AI startups.
-  =======================================================================
--->
-
-<!-- 
-  =======================================================================
-  🎨 AI BANNER GENERATION PROMPTS
-  (Use these in Midjourney / Ideogram / Flux to generate your hero image)
-  =======================================================================
-  
-  PROMPT 1 (The Vercel/Linear Dark Mode Aesthetic):
-  "A hyper-minimalist, sleek dark mode web development banner. Geometric shapes fading into a deep obsidian black background. Subtle glowing accents of electric blue and amethyst purple. Abstract representation of a neural network connecting to server nodes. Clean, glassmorphism UI elements floating softly in the background. Inspired by Linear and Next.js, 8k resolution, cinematic lighting, corporate, ultra-detailed --ar 3:1 --v 6.0"
-
-  PROMPT 2 (The Modern Founder / Workspace Aesthetic):
-  "A premium, minimalist developer workspace at dusk. A sleek anodized aluminum laptop on a matte black desk. Soft, ambient warm lighting from a screen displaying elegant code structure. A shallow depth of field with a blurred city skyline out the window. High-key contrast, professional, sophisticated, Apple-style product photography, architectural digest --ar 3:1 --v 6.0"
-
-  PROMPT 3 (The AI Product Builder Aesthetic):
-  "An abstract, futuristic visual representing the intersection of human creativity and artificial intelligence. Soft, glowing gradient mesh of deep cyan, magenta, and indigo on a dark canvas. Geometric data streams converging into a central glowing orb. Clean, modern, highly professional, SaaS landing page hero image, abstract tech --ar 3:1 --style raw"
--->
-
 <div align="center">
-  
-  <img width="1940" height="640" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/2ba907b8-ad3f-4fb2-9592-9682b1e69d3c" />
+  <img src="./banner.png" width="100%" alt="Sarthak Dudhe profile banner" />
 
   <br><br>
-  <!-- DYNAMIC ROLES -->
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Backend+Systems;Building+AI-Native+Product+Experiences;Optimizing+Web+Performance+at+Scale;Bridging+Engineering+and+Product" alt="Dynamic Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Backend+and+API+Engineer;AI+Product+Builder;React+and+Node.js+Developer" alt="Typing animation showing Sarthak's developer roles" />
   </a>
-</div>
-  
-  <p align="center" style="font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; color: #888; max-width: 650px; margin: 15px auto; line-height: 1.6;">
-    I engineer high-performance web applications and intelligent systems. I believe code is a medium for solving human problems, and I am obsessed with clean architecture, exceptional user experiences, and building software that scales elegantly.
+
+  <p>
+    I build full-stack web applications with practical backend architecture, responsive interfaces,
+    and AI-powered product features. My work focuses on clean APIs, reliable user flows,
+    and software that solves real problems with a polished experience.
   </p>
 
-  <br>
-
-  <!-- PREMIUM CTAs -->
-  <p align="center">
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Connect_via_Email-121212?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
+  <p>
+    <a href="mailto:sarthakdudhe79@gmail.com">
+      <img src="https://img.shields.io/badge/Email-sarthakdudhe79%40gmail.com-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sarthak" />
     </a>
-    <a href="https://linkedin.com/in/your-linkedin">
-      <img src="https://img.shields.io/badge/View_LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327">
+      <img src="https://img.shields.io/badge/LinkedIn-Sarthak_Dudhe-121212?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
     </a>
-    <a href="https://yourportfolio.com">
-      <img src="https://img.shields.io/badge/Explore_Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <a href="https://portfolio-sarthak-beta.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+    </a>
+    <a href="https://github.com/SarthakDudhe">
+      <img src="https://img.shields.io/badge/GitHub-SarthakDudhe-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
   </p>
 </div>
 
-<br><br><br>
+<br>
 
-<!-- ======================================================================= -->
-<!-- 🧬 PERSONAL BRAND ARCHITECTURE & ENGINEERING PHILOSOPHY -->
-<!-- ======================================================================= -->
-<h2 align="center">✦ Engineering Philosophy ✦</h2>
-<p align="center"><i>How I approach software development and problem-solving.</i></p>
-
-<table width="100%" align="center" style="border-collapse: collapse;">
-  <tr>
-    <td width="33%" align="center" valign="top" style="padding: 20px;">
-      <h3 align="center">⚡ Performance as a Feature</h3>
-      <p align="center" style="color: #666; font-size: 14px;">Every millisecond counts. From strategic database indexing in MongoDB to optimizing React render cycles, I build systems designed to handle high concurrency with zero latency.</p>
-    </td>
-    <td width="33%" align="center" valign="top" style="padding: 20px;">
-      <h3 align="center">🧠 AI-Native Ecosystems</h3>
-      <p align="center" style="color: #666; font-size: 14px;">Beyond simple API wrappers. I architect products that embed Large Language Models deep into the user workflow, delivering actual business value and intelligent automation.</p>
-    </td>
-    <td width="33%" align="center" valign="top" style="padding: 20px;">
-      <h3 align="center">📐 Architecture First</h3>
-      <p align="center" style="color: #666; font-size: 14px;">I design before I code. Event-driven architectures, modular RESTful APIs, and secure authentication flows form the resilient backbone of every application I deploy.</p>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<!-- ======================================================================= -->
-<!-- 🛠️ TECHNOLOGY LANDSCAPE (CAPABILITY MAP) -->
-<!-- ======================================================================= -->
-<h2 align="center">✦ Capability Landscape ✦</h2>
+<h2 align="center">About Me</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>Backend & Distributed Systems</h3>
-        <p>
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" /></a>
-        </p>
-        <p style="font-size: 13px; color: #888;">Designing robust RESTful APIs, real-time WebSocket communication, and scalable NoSQL database schemas.</p>
-      </div>
+      <ul>
+        <li>Building full-stack applications with React, Node.js, Express, MongoDB, and modern AI APIs.</li>
+        <li>Interested in backend architecture, product engineering, and practical AI workflows.</li>
+        <li>Focused on clean code, secure authentication, fast APIs, and reliable user experiences.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>Frontend & User Experience</h3>
-        <p>
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" /></a>
-        </p>
-        <p style="font-size: 13px; color: #888;">Crafting responsive, highly interactive, state-driven interfaces with modern React paradigms.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>DevOps & Deployment</h3>
-        <p>
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws&theme=dark" /></a>
-        </p>
-        <p style="font-size: 13px; color: #888;">Managing CI/CD pipelines, edge deployments, and environment configuration for production environments.</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>Tools & Infrastructure</h3>
-        <p>
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma&theme=dark" /></a>
-        </p>
-        <p style="font-size: 13px; color: #888;">Optimizing developer workflows with modern tooling and seamless cloud deployments.</p>
-      </div>
+      <ul>
+        <li>Currently improving system design, Docker-based workflows, AWS fundamentals, and production backend patterns.</li>
+        <li>Open to Software Engineer, Full Stack Developer, and Backend Engineer opportunities.</li>
+        <li>Comfortable working across frontend, backend, database, deployment, and API integration layers.</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- ======================================================================= -->
-<!-- 💻 PRODUCT SHOWCASE (SAAS-STYLE PRESENTATION) -->
-<!-- ======================================================================= -->
-<h2 align="center">✦ Flagship Products ✦</h2>
-<p align="center"><i>Transforming complex technical challenges into seamless user experiences.</i></p>
+<h2 align="center">Engineering Focus</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>Performance-Minded Systems</h3>
+      <p>I care about fast APIs, efficient database access, responsive React screens, and low-latency user experiences.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>AI-Native Products</h3>
+      <p>I integrate LLMs into product workflows where they can improve matching, analysis, automation, or user decision-making.</p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Architecture First</h3>
+      <p>I prefer clear service boundaries, secure authentication flows, maintainable APIs, and project structures that can grow.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Technology Stack</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Backend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB, and PostgreSQL" />
+      </a>
+      <p>REST APIs, authentication, file handling, database schema design, and real-time communication.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Frontend</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" alt="React, JavaScript, TypeScript, and Tailwind CSS" />
+      </a>
+      <p>Responsive interfaces, component-driven development, state management, and polished user flows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>Deployment</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" alt="Git, GitHub, Docker, and Vercel" />
+      </a>
+      <p>Version control, deployment workflows, environment configuration, and production-ready builds.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,postman,figma,aws&theme=dark" alt="VS Code, Postman, Figma, and AWS" />
+      </a>
+      <p>API testing, UI planning, cloud fundamentals, and developer workflow optimization.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">Featured Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>InsiderJobs</h3>
+      <p>AI resume analysis, job matching, authenticated dashboards, and job aggregation.</p>
+      <a href="https://insider-jobs-ecru.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
+      </a>
+      <a href="https://github.com/SarthakDudhe/insiderjobs">
+        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="InsiderJobs code" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>QuickChat</h3>
+      <p>Real-time messaging, Socket.IO events, JWT access control, and synchronized chat state.</p>
+      <a href="https://chat-application-eight-wine.vercel.app/login">
+        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch QuickChat" />
+      </a>
+      <a href="https://github.com/SarthakDudhe/quickchat">
+        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="QuickChat code" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>Feasto</h3>
+      <p>Food catalog, cart workflow, Stripe payments, checkout, and admin order handling.</p>
+      <a href="https://feasto-delta.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch Feasto" />
+      </a>
+      <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
+        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Feasto code" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <details open>
-  <summary><b><font size="+1">🤖 InsiderJobs — AI-Powered Career Ecosystem</font></b></summary>
+  <summary><b>InsiderJobs - AI-Powered Career Platform</b></summary>
   <br>
-  <div align="center">
-  <!-- Gallery of product screenshots -->
-  <a href="https://insider-jobs-ecru.vercel.app/">
-    <img  width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 225015" src="https://github.com/user-attachments/assets/f2a3733c-141e-43c2-819f-be87ea4559d2" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 225504" src="https://github.com/user-attachments/assets/bb897096-9393-49fa-a7f0-fbc82ea4e874" />
-<img width="30%" style="margin:5px;border-radius:8px;"" alt="Screenshot 2026-04-26 224818" src="https://github.com/user-attachments/assets/dce7fe67-6bfd-4a3c-a1b2-f52060e87cad" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-26 223812" src="https://github.com/user-attachments/assets/5e9f1f2f-b4fd-4ce7-8846-326c3109f146" />
-  </a>
-</div>
-  <br>
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <h3>The Mission</h3>
-        <p>The job market is fragmented. Candidates struggle to align their resumes with requirements, resulting in high rejection rates. InsiderJobs solves this by creating an intelligent bridge between talent and opportunity.</p>
-        <h3>Engineering Decisions</h3>
-        <ul>
-          <li><b>AI Integration:</b> Orchestrated the Groq API running Llama 3 to perform sub-second resume analysis and deterministic skill-gap detection.</li>
-          <li><b>Data Aggregation:</b> Engineered a scalable pipeline using SerpAPI to aggregate, normalize, and serve highly relevant job listings in real-time.</li>
-          <li><b>Asset Management:</b> Integrated Cloudinary for optimized, secure user file (resume/portfolio) storage and delivery.</li>
-        </ul>
-      </td>
-      <td width="40%" valign="top">
-        <div align="center">
-          <h3>Tech Stack</h3>
-          <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express"><br>
-          <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb"> <img src="https://img.shields.io/badge/Groq-111?style=flat-square&logo=ai"><br>
-          <img src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk">
-          <br><br>
-          <a href="https://github.com/SarthakDudhe/insiderjobs"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-          <br><br>
-          <a href="https://insider-jobs-ecru.vercel.app/"><img src="https://img.shields.io/badge/Launch_Live_Application-2563EB?style=for-the-badge&logo=vercel&logoColor=white"></a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
 
-<hr style="border: 1px solid #333; margin: 30px 0;">
-
-<details>
-  <summary><b><font size="+1">⚡ QuickChat — Event-Driven Real-Time Communication</font></b></summary>
-  <br>
   <div align="center">
-    <a href="https://quickchat-demo.com">
-    <img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005316" src="https://github.com/user-attachments/assets/30ea21ca-9a8f-4fd5-8913-fcbac651cef9" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005257" src="https://github.com/user-attachments/assets/a4d3bd78-bc21-4b01-abf9-fadc3e5a0059" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-08-20 005242" src="https://github.com/user-attachments/assets/87921ed1-6380-4c91-8e95-4ab89317cb42" />
-
-  </a>
-  </div>
-  <br>
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <h3>The Mission</h3>
-        <p>Build a secure, zero-latency communication platform capable of handling concurrent connections without degradation of performance or reliability.</p>
-        <h3>Engineering Decisions</h3>
-        <ul>
-          <li><b>Architecture:</b> Implemented a bidirectional event-driven architecture utilizing WebSockets (Socket.IO) over a Node.js backend.</li>
-          <li><b>State Management:</b> Optimized client-side state handling to ensure messages render instantly and remain synchronized across distributed clients.</li>
-          <li><b>Security:</b> Enforced strict JWT authentication on the WebSocket handshake to prevent unauthorized room access.</li>
-        </ul>
-      </td>
-      <td width="40%" valign="top">
-        <div align="center">
-          <h3>Tech Stack</h3>
-          <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js"> <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square&logo=socket.io"><br>
-          <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/JWT-111?style=flat-square&logo=jsonwebtokens">
-          <br><br>
-          <a href="https://github.com/SarthakDudhe/quickchat"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</details>
-<!-- <details open>
-  <summary><b><font size="+1">📸 QuickChat – Gallery</font></b></summary>
-  <br>
-  <div align="center">
-    <a href="https://quickchat-demo.com">
-      <img src="/assets/quickchat-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 1"/>
-      <img src="/assets/quickchat-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 2"/>
-      <img src="/assets/quickchat-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 3"/>
+    <a href="https://insider-jobs-ecru.vercel.app/">
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs resume analysis screen" src="https://github.com/user-attachments/assets/f2a3733c-141e-43c2-819f-be87ea4559d2" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs job matching screen" src="https://github.com/user-attachments/assets/bb897096-9393-49fa-a7f0-fbc82ea4e874" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs candidate dashboard" src="https://github.com/user-attachments/assets/dce7fe67-6bfd-4a3c-a1b2-f52060e87cad" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs application workflow" src="https://github.com/user-attachments/assets/5e9f1f2f-b4fd-4ce7-8846-326c3109f146" />
     </a>
   </div>
-  <br>
-</details> -->
 
-<hr style="border: 1px solid #333; margin: 30px 0;">
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI_Resume_Analysis-111?style=flat-square" alt="AI resume analysis" />
+    <img src="https://img.shields.io/badge/Job_Matching-111?style=flat-square" alt="Job matching" />
+    <img src="https://img.shields.io/badge/Clerk_Auth-111?style=flat-square" alt="Clerk authentication" />
+    <img src="https://img.shields.io/badge/Cloudinary_Uploads-111?style=flat-square" alt="Cloudinary uploads" />
+  </p>
 
-<details>
-  <summary><b><font size="+1">🍔 Feasto — High-Performance Food-Tech Platform</font></b></summary>
-  <br>
-  <p>Engineered a comprehensive e-commerce flow from catalog browsing to checkout. Implemented dynamic cart state management, secured Stripe payment intents on the backend, and architected an admin dashboard for order processing.</p>
-  <div align="center">
-   <img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2026-04-28 210140" src="https://github.com/user-attachments/assets/08dd98cc-236c-4004-a1de-e566357a452a" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145111" src="https://github.com/user-attachments/assets/2a3cb0df-ccdf-48ae-aef4-434d8e586279" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145135" src="https://github.com/user-attachments/assets/5fabb5a0-7406-4aaa-b962-565f2fbc7794" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145836" src="https://github.com/user-attachments/assets/28b85d14-217c-4219-a573-b1cb11731faa" />
-<img width="30%" style="margin:5px;border-radius:8px;" alt="Screenshot 2025-12-20 145814" src="https://github.com/user-attachments/assets/ae7fbf70-d0cd-44d8-be50-eff85c377543" />
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>Problem</h3>
+        <p>Job seekers often struggle to understand how well their resume matches a role and what skills they need to improve before applying.</p>
 
-  </div>
+        <h3>What I Built</h3>
+        <ul>
+          <li><b>AI resume analysis:</b> Used Groq and Llama 3 to analyze resumes and identify skill gaps.</li>
+          <li><b>Job aggregation:</b> Integrated SerpAPI to fetch and normalize relevant job listings.</li>
+          <li><b>File management:</b> Used Cloudinary for secure resume and portfolio asset handling.</li>
+          <li><b>Authentication:</b> Integrated Clerk for user sign-in and protected workflows.</li>
+        </ul>
+      </td>
+      <td width="40%" valign="top" align="center">
+        <h3>Stack</h3>
+        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express" alt="Express" /><br>
+        <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Groq-111?style=flat-square&logo=ai" alt="Groq" /><br>
+        <img src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk" alt="Clerk" />
+        <br><br>
+        <a href="https://github.com/SarthakDudhe/insiderjobs">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="InsiderJobs source code" />
+        </a>
+        <br><br>
+        <a href="https://insider-jobs-ecru.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
-<br><br>
+<hr>
 
-<!-- ======================================================================= -->
-<!-- 🚀 RECRUITER FOCUS: IMPACT & GROWTH METRICS -->
-<!-- ======================================================================= -->
-<h2 align="center">✦ Professional Impact ✦</h2>
+<details>
+  <summary><b>QuickChat - Real-Time Communication App</b></summary>
+  <br>
+
+  <div align="center">
+    <a href="https://chat-application-eight-wine.vercel.app/login">
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat conversation screen" src="https://github.com/user-attachments/assets/30ea21ca-9a8f-4fd5-8913-fcbac651cef9" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat chat list screen" src="https://github.com/user-attachments/assets/a4d3bd78-bc21-4b01-abf9-fadc3e5a0059" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat messaging interface" src="https://github.com/user-attachments/assets/87921ed1-6380-4c91-8e95-4ab89317cb42" />
+    </a>
+  </div>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Real_Time_Chat-111?style=flat-square" alt="Real-time chat" />
+    <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square" alt="Socket.IO" />
+    <img src="https://img.shields.io/badge/JWT_Auth-111?style=flat-square" alt="JWT authentication" />
+    <img src="https://img.shields.io/badge/React_State-111?style=flat-square" alt="React state management" />
+  </p>
+
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>Problem</h3>
+        <p>Real-time chat apps need reliable message delivery, protected rooms, synchronized UI state, and fast feedback across connected clients.</p>
+
+        <h3>What I Built</h3>
+        <ul>
+          <li><b>Real-time events:</b> Built bidirectional communication using Socket.IO over a Node.js backend.</li>
+          <li><b>Message synchronization:</b> Managed client-side state so active conversations update quickly and consistently.</li>
+          <li><b>Access control:</b> Used JWT-based authentication for protected chat access.</li>
+        </ul>
+      </td>
+      <td width="40%" valign="top" align="center">
+        <h3>Stack</h3>
+        <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square&logo=socket.io" alt="Socket.IO" /><br>
+        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/JWT-111?style=flat-square&logo=jsonwebtokens" alt="JWT" />
+        <br><br>
+        <a href="https://github.com/SarthakDudhe/quickchat">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuickChat source code" />
+        </a>
+        <br><br>
+        <a href="https://chat-application-eight-wine.vercel.app/login">
+          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch QuickChat" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<hr>
+
+<details>
+  <summary><b>Feasto - Food Ordering Platform</b></summary>
+  <br>
+
+  <div align="center">
+    <a href="https://feasto-delta.vercel.app/">
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto food catalog screen" src="https://github.com/user-attachments/assets/08dd98cc-236c-4004-a1de-e566357a452a" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto menu browsing screen" src="https://github.com/user-attachments/assets/2a3cb0df-ccdf-48ae-aef4-434d8e586279" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto cart screen" src="https://github.com/user-attachments/assets/5fabb5a0-7406-4aaa-b962-565f2fbc7794" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto checkout screen" src="https://github.com/user-attachments/assets/28b85d14-217c-4219-a573-b1cb11731faa" />
+      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto order management screen" src="https://github.com/user-attachments/assets/ae7fbf70-d0cd-44d8-be50-eff85c377543" />
+    </a>
+  </div>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Food_Catalog-111?style=flat-square" alt="Food catalog" />
+    <img src="https://img.shields.io/badge/Cart_Workflow-111?style=flat-square" alt="Cart workflow" />
+    <img src="https://img.shields.io/badge/Stripe_Payments-111?style=flat-square" alt="Stripe payments" />
+    <img src="https://img.shields.io/badge/Admin_Dashboard-111?style=flat-square" alt="Admin dashboard" />
+  </p>
+
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <h3>Problem</h3>
+        <p>Food ordering platforms need a smooth path from catalog browsing to checkout while keeping cart, payment, and admin workflows reliable.</p>
+
+        <h3>What I Built</h3>
+        <ul>
+          <li><b>Ordering flow:</b> Built catalog browsing, cart state, checkout, and order tracking workflows.</li>
+          <li><b>Payments:</b> Secured Stripe payment intent creation on the backend.</li>
+          <li><b>Admin operations:</b> Added dashboard workflows for order processing and management.</li>
+        </ul>
+      </td>
+      <td width="40%" valign="top" align="center">
+        <h3>Stack</h3>
+        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js" alt="Node.js" /><br>
+        <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express" alt="Express" />
+        <img src="https://img.shields.io/badge/Stripe-111?style=flat-square&logo=stripe" alt="Stripe" />
+        <br><br>
+        <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Feasto source code" />
+        </a>
+        <br><br>
+        <a href="https://feasto-delta.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Feasto" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+<h2 align="center">Professional Experience</h2>
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top" align="center">
-      <h3>💼 Production Experience</h3>
-      <p>As a <b>Software Engineer Intern at Sapphire Infocom</b>, I didn't just write code—I shipped it. I engineered scalable APIs, optimized React frontends, and worked directly on resolving critical production bottlenecks. I understand the difference between a local script and a production-grade microservice.</p>
+    <td align="center" valign="top">
+      <h3>Software Engineer Intern - Sapphire Infocom Pvt. Ltd.</h3>
+      <p><b>Aug 14, 2025 - Nov 13, 2025</b></p>
+      <p>
+        Worked on production-oriented web development, including scalable APIs,
+        React frontend improvements, and debugging performance bottlenecks.
+        This experience strengthened how I think about maintainable code,
+        deployment readiness, and user-facing reliability.
+      </p>
+      <p>
+        Key focus areas: API development, frontend optimization, production debugging,
+        and collaboration across real application workflows.
+      </p>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- ======================================================================= -->
-<!-- 📊 DYNAMIC ACTIVITY DASHBOARD -->
-<!-- ======================================================================= -->
-<h2 align="center">✦ Engineering Activity ✦</h2>
+<h2 align="center">GitHub Activity</h2>
 
-<!-- High-end Contribution Snake -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SarthakDudhe&style=for-the-badge&color=111111" alt="Profile views" />
+</div>
+
+<br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub contribution grid animation" src="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
 <br>
 
-<!-- Trophies, Stats, and Streak -->
 <div align="center">
-
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117)](https://github.com/SarthakDudhe)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe top languages" />
+  <br><br>
+  <a href="https://github.com/SarthakDudhe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117" alt="Sarthak Dudhe GitHub streak" />
+  </a>
 </div>
 
-<br><br>
+<br>
 
-<!-- ======================================================================= -->
-<!-- 🤝 CONTACT & COLLABORATION -->
-<!-- ======================================================================= -->
+<h2 align="center">Currently Exploring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge" alt="System design" />
+  <img src="https://img.shields.io/badge/Docker_Workflows-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker workflows" />
+  <img src="https://img.shields.io/badge/AWS_Fundamentals-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS fundamentals" />
+  <img src="https://img.shields.io/badge/Production_Backends-111111?style=for-the-badge" alt="Production backend patterns" />
+</p>
+
+<br>
+
 <div align="center">
-  <h2 align="center">✦ Let's Build the Future ✦</h2>
-  <p align="center">I am currently exploring opportunities for <b>Software Engineer</b>, <b>Full Stack Developer</b>, and <b>Backend Engineer</b> roles.</p>
-  <br>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Initiate_Conversation-111111?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email">
+  <h2>Open to Opportunities</h2>
+  <p>
+    I am currently exploring Software Engineer, Full Stack Developer,
+    and Backend Engineer roles.
+  </p>
+  <a href="mailto:sarthakdudhe79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sarthak" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://portfolio-sarthak-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
   </a>
   <br><br>
-  <p align="center" style="color: #666; font-size: 12px;">
-    <i>Designed for scale. Built for impact.</i>
-  </p>
+  <i>Clean architecture. Practical AI. Product-focused engineering.</i>
 </div>

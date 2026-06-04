@@ -141,7 +141,8 @@
   <summary><b><font size="+1">🤖 InsiderJobs — AI-Powered Career Ecosystem</font></b></summary>
   <br>
   <div align="center">
-    <!-- Replace with a high-res GIF or polished product screenshot -->
+    
+   <img width="1919" height="913" alt="Screenshot 2026-04-26 225015" src="https://github.com/user-attachments/assets/7bbb1437-fdac-4f98-91db-60833875a7ac" />
     <a href="https://insider-jobs-ecru.vercel.app/">
       <img src="https://via.placeholder.com/900x450/111111/444444?text=[+INSERT+PRODUCT+DASHBOARD+SCREENSHOT+HERE+]" width="100%" style="border-radius: 8px;">
     </a>

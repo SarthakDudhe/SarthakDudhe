@@ -23,7 +23,8 @@
 -->
 
 <div align="center">
-  <img src="banner.png" alt="Sarthak Banner" width="100%">
+ <img width="1920" height="640" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/e798d90f-bbd5-46e2-a432-b3e64e0f91f6" />
+
 
   <br><br>
 

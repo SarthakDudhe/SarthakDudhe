@@ -23,8 +23,9 @@
 -->
 
 <div align="center">
-  <h1>Sarthak Dudhe</h1>
-  <img src="/banner.png" alt="Sarthak Banner" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.5);">
+  
+  <img width="1940" height="640" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/2ba907b8-ad3f-4fb2-9592-9682b1e69d3c" />
+
   <br><br>
   <!-- DYNAMIC ROLES -->
   <a href="https://git.io/typing-svg">

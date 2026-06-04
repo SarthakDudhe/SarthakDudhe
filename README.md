@@ -215,7 +215,7 @@
     </tr>
   </table>
 </details>
-<details open>
+<!-- <details open>
   <summary><b><font size="+1">📸 QuickChat – Gallery</font></b></summary>
   <br>
   <div align="center">
@@ -226,7 +226,7 @@
     </a>
   </div>
   <br>
-</details>
+</details> -->
 
 <hr style="border: 1px solid #333; margin: 30px 0;">
 

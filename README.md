@@ -23,15 +23,14 @@
 -->
 
 <div align="center">
- <img width="1920" height="640" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/e798d90f-bbd5-46e2-a432-b3e64e0f91f6" />
-
-
+  <h1>Sarthak Dudhe</h1>
+  <img src="/banner.png" alt="Sarthak Banner" width="100%" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.5);">
   <br><br>
-
   <!-- DYNAMIC ROLES -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Backend+Systems;Building+AI-Native+Product+Experiences;Optimizing+Web+Performance+at+Scale;Bridging+Engineering+and+Product" alt="Dynamic Roles" />
   </a>
+</div>
   
   <p align="center" style="font-family: 'Inter', -apple-system, sans-serif; font-size: 16px; color: #888; max-width: 650px; margin: 15px auto; line-height: 1.6;">
     I engineer high-performance web applications and intelligent systems. I believe code is a medium for solving human problems, and I am obsessed with clean architecture, exceptional user experiences, and building software that scales elegantly.
@@ -141,12 +140,15 @@
   <summary><b><font size="+1">🤖 InsiderJobs — AI-Powered Career Ecosystem</font></b></summary>
   <br>
   <div align="center">
-    
-   <img width="1919" height="913" alt="Screenshot 2026-04-26 225015" src="https://github.com/user-attachments/assets/7bbb1437-fdac-4f98-91db-60833875a7ac" />
-    <a href="https://insider-jobs-ecru.vercel.app/">
-      <img src="https://via.placeholder.com/900x450/111111/444444?text=[+INSERT+PRODUCT+DASHBOARD+SCREENSHOT+HERE+]" width="100%" style="border-radius: 8px;">
-    </a>
-  </div>
+  <!-- Gallery of product screenshots -->
+  <a href="https://insider-jobs-ecru.vercel.app/">
+    <img src="/assets/insiderjobs-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 1"/>
+<img src="/assets/insiderjobs-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 2"/>
+<img src="/assets/insiderjobs-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 3"/>
+    <img src="assets/insiderjobs-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 2">
+    <img src="assets/insiderjobs-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs screenshot 3">
+  </a>
+</div>
   <br>
   <table width="100%">
     <tr>
@@ -183,8 +185,10 @@
   <br>
   <div align="center">
     <a href="https://quickchat-demo.com">
-      <img src="https://via.placeholder.com/900x450/111111/444444?text=[+INSERT+REAL-TIME+CHAT+INTERFACE+GIF+HERE+]" width="100%" style="border-radius: 8px;">
-    </a>
+    <img src="/assets/quickchat-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 1"/>
+    <img src="/assets/quickchat-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 2"/>
+    <img src="/assets/quickchat-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 3"/>
+  </a>
   </div>
   <br>
   <table width="100%">
@@ -211,6 +215,18 @@
     </tr>
   </table>
 </details>
+<details open>
+  <summary><b><font size="+1">📸 QuickChat – Gallery</font></b></summary>
+  <br>
+  <div align="center">
+    <a href="https://quickchat-demo.com">
+      <img src="/assets/quickchat-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 1"/>
+      <img src="/assets/quickchat-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 2"/>
+      <img src="/assets/quickchat-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat screenshot 3"/>
+    </a>
+  </div>
+  <br>
+</details>
 
 <hr style="border: 1px solid #333; margin: 30px 0;">
 
@@ -218,9 +234,11 @@
   <summary><b><font size="+1">🍔 Feasto — High-Performance Food-Tech Platform</font></b></summary>
   <br>
   <p>Engineered a comprehensive e-commerce flow from catalog browsing to checkout. Implemented dynamic cart state management, secured Stripe payment intents on the backend, and architected an admin dashboard for order processing.</p>
-  <p align="right">
-    <a href="https://github.com/SarthakDudhe/feasto"><b>[ View Repository ]</b></a> • <a href="https://feasto-food-delivery-platform.onrender.com/"><b>[ Live Application ]</b></a>
-  </p>
+  <div align="center">
+    <a href="https://github.com/SarthakDudhe/feasto"><img src="/assets/feasto-1.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 1"/></a>
+    <a href="https://feasto-food-delivery-platform.onrender.com/"><img src="/assets/feasto-2.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 2"/></a>
+    <a href="https://feasto-food-delivery-platform.onrender.com/"><img src="/assets/feasto-3.png" width="30%" style="margin:5px;border-radius:8px;" alt="Feasto screenshot 3"/></a>
+  </div>
 </details>
 
 <br><br>
@@ -256,21 +274,19 @@
 </div>
 <br>
 
-<!-- Trophies (High Impact) -->
+<!-- Trophies, Stats, and Streak -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SarthakDudhe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
 
-<br><br>
 
-<!-- Premium Transparent Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+
+
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117)](https://github.com/SarthakDudhe)
+
 </div>
 
 <br><br>

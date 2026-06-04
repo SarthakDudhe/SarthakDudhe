@@ -179,7 +179,7 @@
           <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb"> <img src="https://img.shields.io/badge/Groq-111?style=flat-square&logo=ai"><br>
           <img src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk">
           <br><br>
-          <a href="https://github.com/yourusername/insiderjobs"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+          <a href="https://github.com/SarthakDudhe/insiderjobs"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
           <br><br>
           <a href="https://insider-jobs-ecru.vercel.app/"><img src="https://img.shields.io/badge/Launch_Live_Application-2563EB?style=for-the-badge&logo=vercel&logoColor=white"></a>
         </div>
@@ -217,7 +217,7 @@
           <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js"> <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square&logo=socket.io"><br>
           <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react"> <img src="https://img.shields.io/badge/JWT-111?style=flat-square&logo=jsonwebtokens">
           <br><br>
-          <a href="https://github.com/yourusername/quickchat"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+          <a href="https://github.com/SarthakDudhe/quickchat"><img src="https://img.shields.io/badge/View_Architecture_&_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
         </div>
       </td>
     </tr>
@@ -231,7 +231,7 @@
   <br>
   <p>Engineered a comprehensive e-commerce flow from catalog browsing to checkout. Implemented dynamic cart state management, secured Stripe payment intents on the backend, and architected an admin dashboard for order processing.</p>
   <p align="right">
-    <a href="https://github.com/yourusername/feasto"><b>[ View Repository ]</b></a> • <a href="https://feasto-food-delivery-platform.onrender.com/"><b>[ Live Application ]</b></a>
+    <a href="https://github.com/SarthakDudhe/feasto"><b>[ View Repository ]</b></a> • <a href="https://feasto-food-delivery-platform.onrender.com/"><b>[ Live Application ]</b></a>
   </p>
 </details>
 
@@ -261,9 +261,9 @@
 <!-- High-end Contribution Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SarthakDudhe/SarthakDudhe/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 <br>
@@ -272,10 +272,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=444&text_color=999&bg_color=00000000" width="100%" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=444&text_color=999&bg_color=00000000" width="100%" alt="GitHub Stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999&bg_color=00000000" width="100%" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999&bg_color=00000000" width="100%" alt="Top Languages">
     </td>
   </tr>
 </table>

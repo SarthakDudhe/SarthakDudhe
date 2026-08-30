@@ -239,22 +239,23 @@
 
 <br>
 
-<h2 align="center">Professional Experience</h2>
+<h2 align="center">💼 Professional Experience</h2>
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top">
-      <h3>Software Engineer Intern - Sapphire Infocom Pvt. Ltd.</h3>
-      <p><b>Aug 14, 2025 - Nov 13, 2025</b></p>
+    <td valign="top">
+      <h3>🏢 Software Engineer Intern — Sapphire Infocom Pvt. Ltd.</h3>
       <p>
-        Worked on production-oriented web development, including scalable APIs,
-        React frontend improvements, and debugging performance bottlenecks.
-        This experience strengthened how I think about maintainable code,
-        deployment readiness, and user-facing reliability.
+        <img src="https://img.shields.io/badge/Duration-Aug_14%2C_2025_--_Nov_13%2C_2025-2563EB?style=flat-square&logo=clock&logoColor=white" alt="Duration" />
+        <img src="https://img.shields.io/badge/Role-Full_Stack_Development-181717?style=flat-square" alt="Role" />
       </p>
+      <ul>
+        <li><b>Scalable API Development:</b> Engineered production RESTful API endpoints with Node.js and Express, implementing structured error handling, clean middlewares, and input validation.</li>
+        <li><b>Frontend Optimization:</b> Built reusable React components and resolved state/rendering bottlenecks, improving UI responsiveness and user-facing reliability.</li>
+        <li><b>Production Engineering:</b> Collaborated in real application workflows, performing code reviews, API debugging, and postman testing.</li>
+      </ul>
       <p>
-        Key focus areas: API development, frontend optimization, production debugging,
-        and collaboration across real application workflows.
+        <b>Tech:</b> <code>React.js</code> • <code>Node.js</code> • <code>Express.js</code> • <code>REST APIs</code> • <code>Git</code> • <code>Postman</code>
       </p>
     </td>
   </tr>
@@ -262,7 +263,7 @@
 
 <br>
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SarthakDudhe&style=for-the-badge&color=111111" alt="Profile views" />
@@ -291,32 +292,36 @@
 
 <br>
 
-<h2 align="center">Currently Exploring</h2>
+<h2 align="center">🌱 Currently Leveling Up</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge" alt="System design" />
-  <img src="https://img.shields.io/badge/Docker_Workflows-111111?style=for-the-badge&logo=docker&logoColor=white" alt="Docker workflows" />
-  <img src="https://img.shields.io/badge/AWS_Fundamentals-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS fundamentals" />
-  <img src="https://img.shields.io/badge/Production_Backends-111111?style=for-the-badge" alt="Production backend patterns" />
+  <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=diagram-next&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Workflows" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black" alt="AWS Fundamentals" />
+  <img src="https://img.shields.io/badge/Scalable_Backends-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Production Backends" />
 </p>
 
 <br>
 
 <div align="center">
-  <h2>Open to Opportunities</h2>
+  <h2>📬 Let's Connect &amp; Collaborate</h2>
   <p>
-    I am currently exploring Software Engineer, Full Stack Developer,
-    and Backend Engineer roles.
+    I am actively open to <b>Software Engineer</b>, <b>Full Stack Developer</b>, and <b>Backend Engineer</b> roles.<br>
+    Have an opportunity or want to discuss engineering? Feel free to reach out!
   </p>
+  <br>
   <a href="mailto:sarthakdudhe79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sarthak" />
+    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sarthak" />
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dudhe-67155a327">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="https://portfolio-sarthak-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+  <a href="https://github.com/SarthakDudhe">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <br><br>
-  <i>Clean architecture. Practical AI. Product-focused engineering.</i>
+  <i>⚡ Clean architecture. Scalable APIs. Practical AI workflows.</i>
 </div>

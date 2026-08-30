@@ -114,38 +114,41 @@
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">🚀 Featured Engineering Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>InsiderJobs</h3>
-      <p>AI resume analysis, job matching, authenticated dashboards, and job aggregation.</p>
+      <h3>🤖 InsiderJobs</h3>
+      <p><b>AI Career Platform</b></p>
+      <p>Resume gap analysis, AI job matching &amp; automated aggregation.</p>
       <a href="https://insider-jobs-ecru.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
+        <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
       </a>
       <a href="https://github.com/SarthakDudhe/insiderjobs">
-        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="InsiderJobs code" />
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="InsiderJobs Code" />
       </a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>QuickChat</h3>
-      <p>Real-time messaging, Socket.IO events, JWT access control, and synchronized chat state.</p>
+      <h3>⚡ QuickChat</h3>
+      <p><b>Real-Time Chat Engine</b></p>
+      <p>WebSocket events, instant room synchronization &amp; JWT auth.</p>
       <a href="https://chat-application-eight-wine.vercel.app/login">
-        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch QuickChat" />
+        <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch QuickChat" />
       </a>
       <a href="https://github.com/SarthakDudhe/quickchat">
-        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="QuickChat code" />
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuickChat Code" />
       </a>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>Feasto</h3>
-      <p>Food catalog, cart workflow, Stripe payments, checkout, and admin order handling.</p>
+      <h3>🛒 Feasto</h3>
+      <p><b>Food Delivery Platform</b></p>
+      <p>Interactive food catalog, Stripe payments &amp; admin order tracking.</p>
       <a href="https://feasto-delta.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_App-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Launch Feasto" />
+        <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Feasto" />
       </a>
       <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
-        <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Feasto code" />
+        <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Feasto Code" />
       </a>
     </td>
   </tr>
@@ -154,158 +157,126 @@
 <br>
 
 <details open>
-  <summary><b>InsiderJobs - AI-Powered Career Platform</b></summary>
+  <summary><h3>&nbsp;🤖 <b>InsiderJobs — AI-Powered Career Platform</b></h3></summary>
   <br>
 
   <div align="center">
     <a href="https://insider-jobs-ecru.vercel.app/">
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs resume analysis screen" src="https://github.com/user-attachments/assets/f2a3733c-141e-43c2-819f-be87ea4559d2" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs job matching screen" src="https://github.com/user-attachments/assets/bb897096-9393-49fa-a7f0-fbc82ea4e874" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs candidate dashboard" src="https://github.com/user-attachments/assets/dce7fe67-6bfd-4a3c-a1b2-f52060e87cad" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="InsiderJobs application workflow" src="https://github.com/user-attachments/assets/5e9f1f2f-b4fd-4ce7-8846-326c3109f146" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="InsiderJobs resume analysis screen" src="https://github.com/user-attachments/assets/f2a3733c-141e-43c2-819f-be87ea4559d2" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="InsiderJobs job matching screen" src="https://github.com/user-attachments/assets/bb897096-9393-49fa-a7f0-fbc82ea4e874" />
     </a>
   </div>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/AI_Resume_Analysis-111?style=flat-square" alt="AI resume analysis" />
-    <img src="https://img.shields.io/badge/Job_Matching-111?style=flat-square" alt="Job matching" />
-    <img src="https://img.shields.io/badge/Clerk_Auth-111?style=flat-square" alt="Clerk authentication" />
-    <img src="https://img.shields.io/badge/Cloudinary_Uploads-111?style=flat-square" alt="Cloudinary uploads" />
-  </p>
-
   <table width="100%">
     <tr>
-      <td width="60%" valign="top">
-        <h3>Problem</h3>
-        <p>Job seekers often struggle to understand how well their resume matches a role and what skills they need to improve before applying.</p>
-        <h3>What I Built</h3>
+      <td width="65%" valign="top">
+        <h4>🎯 Key Engineering Highlights</h4>
         <ul>
-          <li><b>AI resume analysis:</b> Used Groq and Llama 3 to analyze resumes and identify skill gaps.</li>
-          <li><b>Job aggregation:</b> Integrated SerpAPI to fetch and normalize relevant job listings.</li>
-          <li><b>File management:</b> Used Cloudinary for secure resume and portfolio asset handling.</li>
-          <li><b>Authentication:</b> Integrated Clerk for user sign-in and protected workflows.</li>
+          <li><b>AI Resume Analysis:</b> Integrated Groq &amp; Llama 3 for structured skill-gap analysis and actionable score breakdowns.</li>
+          <li><b>Live Job Aggregation:</b> Connected SerpAPI to fetch, filter, and normalize real-time job listings across domains.</li>
+          <li><b>Secure Auth &amp; Media Pipeline:</b> Implemented Clerk JWT authentication with Cloudinary CDN for PDF resume storage.</li>
         </ul>
       </td>
-      <td width="40%" valign="top" align="center">
-        <h3>Stack</h3>
-        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express" alt="Express" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-111?style=flat-square&logo=mongodb" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Groq-111?style=flat-square&logo=ai" alt="Groq" /><br>
-        <img src="https://img.shields.io/badge/Clerk-111?style=flat-square&logo=clerk" alt="Clerk" />
-        <br><br>
-        <a href="https://github.com/SarthakDudhe/insiderjobs">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="InsiderJobs source code" />
-        </a>
+      <td width="35%" valign="top" align="center">
+        <h4>🛠️ Tech Stack</h4>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
+        <img src="https://img.shields.io/badge/Groq_AI-F05032?style=flat-square&logo=openai&logoColor=white" alt="Groq" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
         <br><br>
         <a href="https://insider-jobs-ecru.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch InsiderJobs" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/insiderjobs">
+          <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="InsiderJobs Source" />
         </a>
       </td>
     </tr>
   </table>
 </details>
 
-<hr>
+<br>
 
 <details open>
-  <summary><b>QuickChat - Real-Time Communication App</b></summary>
+  <summary><h3>&nbsp;⚡ <b>QuickChat — Real-Time WebSocket Messaging</b></h3></summary>
   <br>
 
   <div align="center">
     <a href="https://chat-application-eight-wine.vercel.app/login">
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat conversation screen" src="https://github.com/user-attachments/assets/30ea21ca-9a8f-4fd5-8913-fcbac651cef9" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat chat list screen" src="https://github.com/user-attachments/assets/a4d3bd78-bc21-4b01-abf9-fadc3e5a0059" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="QuickChat messaging interface" src="https://github.com/user-attachments/assets/87921ed1-6380-4c91-8e95-4ab89317cb42" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="QuickChat conversation screen" src="https://github.com/user-attachments/assets/30ea21ca-9a8f-4fd5-8913-fcbac651cef9" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="QuickChat chat list screen" src="https://github.com/user-attachments/assets/a4d3bd78-bc21-4b01-abf9-fadc3e5a0059" />
     </a>
   </div>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Real_Time_Chat-111?style=flat-square" alt="Real-time chat" />
-    <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square" alt="Socket.IO" />
-    <img src="https://img.shields.io/badge/JWT_Auth-111?style=flat-square" alt="JWT authentication" />
-    <img src="https://img.shields.io/badge/React_State-111?style=flat-square" alt="React state management" />
-  </p>
-
   <table width="100%">
     <tr>
-      <td width="60%" valign="top">
-        <h3>Problem</h3>
-        <p>Real-time chat apps need reliable message delivery, protected rooms, synchronized UI state, and fast feedback across connected clients.</p>
-        <h3>What I Built</h3>
+      <td width="65%" valign="top">
+        <h4>🎯 Key Engineering Highlights</h4>
         <ul>
-          <li><b>Real-time events:</b> Built bidirectional communication using Socket.IO over a Node.js backend.</li>
-          <li><b>Message synchronization:</b> Managed client-side state so active conversations update quickly and consistently.</li>
-          <li><b>Access control:</b> Used JWT-based authentication for protected chat access.</li>
+          <li><b>Low-Latency Event Pipeline:</b> Built bidirectional messaging over WebSocket using Socket.IO on Node.js.</li>
+          <li><b>Optimistic State Synchronization:</b> Managed client message buffers for instant dispatch with zero perceived lag.</li>
+          <li><b>JWT Guarded Channels:</b> Secured WebSocket handshakes and REST route access with token-based authentication.</li>
         </ul>
       </td>
-      <td width="40%" valign="top" align="center">
-        <h3>Stack</h3>
-        <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Socket.IO-111?style=flat-square&logo=socket.io" alt="Socket.IO" /><br>
-        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/JWT-111?style=flat-square&logo=jsonwebtokens" alt="JWT" />
-        <br><br>
-        <a href="https://github.com/SarthakDudhe/quickchat">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuickChat source code" />
-        </a>
+      <td width="35%" valign="top" align="center">
+        <h4>🛠️ Tech Stack</h4>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" /><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /><br>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
         <br><br>
         <a href="https://chat-application-eight-wine.vercel.app/login">
-          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch QuickChat" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch QuickChat" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/quickchat">
+          <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="QuickChat Source" />
         </a>
       </td>
     </tr>
   </table>
 </details>
 
-<hr>
+<br>
 
 <details open>
-  <summary><b>Feasto - Food Ordering Platform</b></summary>
+  <summary><h3>&nbsp;🛒 <b>Feasto — Full-Stack Food Ordering Platform</b></h3></summary>
   <br>
 
   <div align="center">
     <a href="https://feasto-delta.vercel.app/">
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto food catalog screen" src="https://github.com/user-attachments/assets/08dd98cc-236c-4004-a1de-e566357a452a" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto menu browsing screen" src="https://github.com/user-attachments/assets/2a3cb0df-ccdf-48ae-aef4-434d8e586279" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto cart screen" src="https://github.com/user-attachments/assets/5fabb5a0-7406-4aaa-b962-565f2fbc7794" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto checkout screen" src="https://github.com/user-attachments/assets/28b85d14-217c-4219-a573-b1cb11731faa" />
-      <img width="30%" style="margin:5px;border-radius:8px;" alt="Feasto order management screen" src="https://github.com/user-attachments/assets/ae7fbf70-d0cd-44d8-be50-eff85c377543" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="Feasto food catalog screen" src="https://github.com/user-attachments/assets/08dd98cc-236c-4004-a1de-e566357a452a" />
+      <img width="48%" style="margin:4px;border-radius:10px;" alt="Feasto cart & checkout screen" src="https://github.com/user-attachments/assets/28b85d14-217c-4219-a573-b1cb11731faa" />
     </a>
   </div>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Food_Catalog-111?style=flat-square" alt="Food catalog" />
-    <img src="https://img.shields.io/badge/Cart_Workflow-111?style=flat-square" alt="Cart workflow" />
-    <img src="https://img.shields.io/badge/Stripe_Payments-111?style=flat-square" alt="Stripe payments" />
-    <img src="https://img.shields.io/badge/Admin_Dashboard-111?style=flat-square" alt="Admin dashboard" />
-  </p>
-
   <table width="100%">
     <tr>
-      <td width="60%" valign="top">
-        <h3>Problem</h3>
-        <p>Food ordering platforms need a smooth path from catalog browsing to checkout while keeping cart, payment, and admin workflows reliable.</p>
-        <h3>What I Built</h3>
+      <td width="65%" valign="top">
+        <h4>🎯 Key Engineering Highlights</h4>
         <ul>
-          <li><b>Ordering flow:</b> Built catalog browsing, cart state, checkout, and order tracking workflows.</li>
-          <li><b>Payments:</b> Secured Stripe payment intent creation on the backend.</li>
-          <li><b>Admin operations:</b> Added dashboard workflows for order processing and management.</li>
+          <li><b>Stripe Checkout Integration:</b> Built secure payment intent workflows with server-side webhook validation.</li>
+          <li><b>Dynamic Cart Engine:</b> Real-time price calculation, stock verification, and persistent user checkout states.</li>
+          <li><b>Order Operations Dashboard:</b> Created role-based admin views to manage live order status lifecycle.</li>
         </ul>
       </td>
-      <td width="40%" valign="top" align="center">
-        <h3>Stack</h3>
-        <img src="https://img.shields.io/badge/React-111?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-111?style=flat-square&logo=node.js" alt="Node.js" /><br>
-        <img src="https://img.shields.io/badge/Express-111?style=flat-square&logo=express" alt="Express" />
-        <img src="https://img.shields.io/badge/Stripe-111?style=flat-square&logo=stripe" alt="Stripe" />
-        <br><br>
-        <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Feasto source code" />
-        </a>
+      <td width="35%" valign="top" align="center">
+        <h4>🛠️ Tech Stack</h4>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
         <br><br>
         <a href="https://feasto-delta.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Feasto" />
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch Feasto" />
+        </a>
+        <a href="https://github.com/SarthakDudhe/Feasto-Food-Delivery-Platform">
+          <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Feasto Source" />
         </a>
       </td>
     </tr>

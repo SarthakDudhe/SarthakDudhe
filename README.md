@@ -31,44 +31,48 @@
 
 <br>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <ul>
-        <li>Building full-stack applications with React, Node.js, Express, MongoDB, and modern AI APIs.</li>
-        <li>Interested in backend architecture, product engineering, and practical AI workflows.</li>
-        <li>Focused on clean code, secure authentication, fast APIs, and reliable user experiences.</li>
-      </ul>
+      <h3>⚡ What I Build</h3>
+      <p>I engineer full-stack web applications with <b>React, Node.js, Express, MongoDB, and modern AI APIs</b>. I specialize in turning product requirements into clean, scalable architectures with responsive user experiences.</p>
+      <h3>🎯 Career Focus</h3>
+      <p>Actively open to <b>Software Engineer</b>, <b>Full Stack Developer</b>, and <b>Backend Engineer</b> opportunities where I can build and ship high-impact features.</p>
     </td>
     <td width="50%" valign="top">
-      <ul>
-        <li>Currently improving system design, Docker-based workflows, AWS fundamentals, and production backend patterns.</li>
-        <li>Open to Software Engineer, Full Stack Developer, and Backend Engineer opportunities.</li>
-        <li>Comfortable working across frontend, backend, database, deployment, and API integration layers.</li>
-      </ul>
+      <h3>🛠️ Core Engineering Philosophy</h3>
+      <p>Committed to clean API design, secure JWT/RBAC authentication, robust database schema design, and production-ready code with maintainable boundaries.</p>
+      <h3>🌱 Continuous Growth</h3>
+      <p>Currently leveling up in <b>System Design</b>, <b>Docker containerization</b>, <b>AWS cloud fundamentals</b>, and scalable backend microservices.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">Engineering Focus</h2>
+<h2 align="center">💡 Engineering Focus &amp; Pillars</h2>
 
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>Performance-Minded Systems</h3>
-      <p>I care about fast APIs, efficient database access, responsive React screens, and low-latency user experiences.</p>
+      <br>
+      <img src="https://img.shields.io/badge/⚡_Performance-121212?style=for-the-badge&logoColor=white" alt="Performance" />
+      <h3>High-Performance Systems</h3>
+      <p>Designing low-latency REST &amp; WebSocket APIs, optimized database queries, and snappy, responsive frontend state management.</p>
     </td>
     <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/🤖_AI_Integration-121212?style=for-the-badge&logoColor=white" alt="AI Native" />
       <h3>AI-Native Products</h3>
-      <p>I integrate LLMs into product workflows where they can improve matching, analysis, automation, or user decision-making.</p>
+      <p>Integrating LLMs (Groq, Llama-3, OpenAI) directly into user workflows to solve real matching, extraction, and automation problems.</p>
     </td>
     <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://img.shields.io/badge/🏗️_Architecture-121212?style=for-the-badge&logoColor=white" alt="Architecture" />
       <h3>Architecture First</h3>
-      <p>I prefer clear service boundaries, secure authentication flows, maintainable APIs, and project structures that can grow.</p>
+      <p>Prioritizing modular service boundaries, strict authentication &amp; RBAC, maintainable data structures, and codebases built to scale.</p>
     </td>
   </tr>
 </table>

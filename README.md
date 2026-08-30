@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="SarthakDudhe's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
  <img width="1700" height="650" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/d8a843a7-4050-4955-8330-2cab677720df" />
 

@@ -356,11 +356,11 @@
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe top languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SarthakDudhe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SarthakDudhe&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Sarthak Dudhe top languages" />
   <br><br>
   <a href="https://github.com/SarthakDudhe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117" alt="Sarthak Dudhe GitHub streak" />
+    <img src="https://streak-stats.demolab.com/?user=SarthakDudhe&theme=radical&hide_border=true&background=0D1117" alt="Sarthak Dudhe GitHub streak" />
   </a>
 </div>
 

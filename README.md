@@ -1,10 +1,5 @@
 <div align="center">
   <img src="ascii_card.svg" width="100%" alt="SarthakDudhe's GitHub profile" />
-</div>
-
-<div align="center">
- <img width="1700" height="650" alt="ChatGPT Image Jun 4, 2026, 05_11_55 PM" src="https://github.com/user-attachments/assets/d8a843a7-4050-4955-8330-2cab677720df" />
-
 
   <br><br>
 

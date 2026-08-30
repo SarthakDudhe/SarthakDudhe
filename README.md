@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="dark_mode.svg" width="100%" alt="SarthakDudhe's GitHub profile" />
+  <img src="ascii_card.svg" width="100%" alt="SarthakDudhe's GitHub profile" />
 </div>
 
 <div align="center">

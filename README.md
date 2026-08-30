@@ -29,68 +29,39 @@
   </p>
 </div>
 
-<br>
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-> **Full-Stack Developer &amp; AI Product Builder** focused on clean backend architecture, reliable API design, and intuitive user experiences.
-
-- 🚀 **What I Build:** End-to-end full-stack web applications with **React, Node.js, Express, MongoDB, and modern AI APIs**.
-- 🛠️ **Engineering Mindset:** Prioritizing clean service boundaries, secure **JWT / RBAC authentication**, optimized database queries, and production-ready code.
-- 🌱 **Currently Leveling Up:** **Distributed System Design**, **Docker containerization**, **AWS cloud fundamentals**, and scalable microservices.
-- 🎯 **Open to Opportunities:** Actively exploring **Software Engineer**, **Full Stack Developer**, and **Backend Engineer** roles.
-
-<br>
-
-<h2 align="center">💡 Engineering Focus &amp; Core Pillars</h2>
-
-> ⚡ **High-Performance Systems**
-> 
-> Designing low-latency REST &amp; WebSocket APIs, indexed database queries, and snappy, responsive frontend state management.
-
-> 🤖 **AI-Native Products**
-> 
-> Integrating LLMs (Groq, Llama 3, OpenAI) directly into user workflows to solve real matching, extraction, and automation challenges.
-
-> 🏗️ **Architecture First**
-> 
-> Prioritizing modular service boundaries, strict authentication &amp; access control, maintainable schemas, and codebases built to scale.
-
-<br>
-
-<h2 align="center">Technology Stack</h2>
+<h2 align="center">🛠️ Tech Stack &amp; Tools</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Backend</h3>
+      <h3>⚡ Backend &amp; Databases</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js, Express, MongoDB, and PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=dark" alt="Backend technologies" />
       </a>
-      <p>REST APIs, authentication, file handling, database schema design, and real-time communication.</p>
+      <p>Node.js, Express, MongoDB, PostgreSQL, MySQL, REST APIs, Socket.IO &amp; JWT Auth</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>Frontend</h3>
+      <h3>🎨 Frontend &amp; UI</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind&theme=dark" alt="React, JavaScript, TypeScript, and Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css&theme=dark" alt="Frontend technologies" />
       </a>
-      <p>Responsive interfaces, component-driven development, state management, and polished user flows.</p>
+      <p>React.js, Next.js, JavaScript, TypeScript, Tailwind CSS &amp; Responsive Web Design</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>Deployment</h3>
+      <h3>☁️ Cloud &amp; DevOps</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,vercel&theme=dark" alt="Git, GitHub, Docker, and Vercel" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel&theme=dark" alt="DevOps and Cloud" />
       </a>
-      <p>Version control, deployment workflows, environment configuration, and production-ready builds.</p>
+      <p>Docker containerization, AWS fundamentals, Git version control, Vercel deployments</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>Tools</h3>
+      <h3>🧰 Developer Tools &amp; AI</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,postman,figma,aws&theme=dark" alt="VS Code, Postman, Figma, and AWS" />
+        <img src="https://skillicons.dev/icons?i=postman,vscode,figma,ai&theme=dark" alt="Tools and AI" />
       </a>
-      <p>API testing, UI planning, cloud fundamentals, and developer workflow optimization.</p>
+      <p>Postman API testing, VS Code, Figma design, LLM APIs (Groq, OpenAI, Llama 3)</p>
     </td>
   </tr>
 </table>

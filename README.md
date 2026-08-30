@@ -33,49 +33,28 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ What I Build</h3>
-      <p>I engineer full-stack web applications with <b>React, Node.js, Express, MongoDB, and modern AI APIs</b>. I specialize in turning product requirements into clean, scalable architectures with responsive user experiences.</p>
-      <h3>🎯 Career Focus</h3>
-      <p>Actively open to <b>Software Engineer</b>, <b>Full Stack Developer</b>, and <b>Backend Engineer</b> opportunities where I can build and ship high-impact features.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Core Engineering Philosophy</h3>
-      <p>Committed to clean API design, secure JWT/RBAC authentication, robust database schema design, and production-ready code with maintainable boundaries.</p>
-      <h3>🌱 Continuous Growth</h3>
-      <p>Currently leveling up in <b>System Design</b>, <b>Docker containerization</b>, <b>AWS cloud fundamentals</b>, and scalable backend microservices.</p>
-    </td>
-  </tr>
-</table>
+> **Full-Stack Developer &amp; AI Product Builder** focused on clean backend architecture, reliable API design, and intuitive user experiences.
+
+- 🚀 **What I Build:** End-to-end full-stack web applications with **React, Node.js, Express, MongoDB, and modern AI APIs**.
+- 🛠️ **Engineering Mindset:** Prioritizing clean service boundaries, secure **JWT / RBAC authentication**, optimized database queries, and production-ready code.
+- 🌱 **Currently Leveling Up:** **Distributed System Design**, **Docker containerization**, **AWS cloud fundamentals**, and scalable microservices.
+- 🎯 **Open to Opportunities:** Actively exploring **Software Engineer**, **Full Stack Developer**, and **Backend Engineer** roles.
 
 <br>
 
-<h2 align="center">💡 Engineering Focus &amp; Pillars</h2>
+<h2 align="center">💡 Engineering Focus &amp; Core Pillars</h2>
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br>
-      <img src="https://img.shields.io/badge/⚡_Performance-121212?style=for-the-badge&logoColor=white" alt="Performance" />
-      <h3>High-Performance Systems</h3>
-      <p>Designing low-latency REST &amp; WebSocket APIs, optimized database queries, and snappy, responsive frontend state management.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br>
-      <img src="https://img.shields.io/badge/🤖_AI_Integration-121212?style=for-the-badge&logoColor=white" alt="AI Native" />
-      <h3>AI-Native Products</h3>
-      <p>Integrating LLMs (Groq, Llama-3, OpenAI) directly into user workflows to solve real matching, extraction, and automation problems.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br>
-      <img src="https://img.shields.io/badge/🏗️_Architecture-121212?style=for-the-badge&logoColor=white" alt="Architecture" />
-      <h3>Architecture First</h3>
-      <p>Prioritizing modular service boundaries, strict authentication &amp; RBAC, maintainable data structures, and codebases built to scale.</p>
-    </td>
-  </tr>
-</table>
+> ⚡ **High-Performance Systems**
+> 
+> Designing low-latency REST &amp; WebSocket APIs, indexed database queries, and snappy, responsive frontend state management.
+
+> 🤖 **AI-Native Products**
+> 
+> Integrating LLMs (Groq, Llama 3, OpenAI) directly into user workflows to solve real matching, extraction, and automation challenges.
+
+> 🏗️ **Architecture First**
+> 
+> Prioritizing modular service boundaries, strict authentication &amp; access control, maintainable schemas, and codebases built to scale.
 
 <br>
 
